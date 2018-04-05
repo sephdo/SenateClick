@@ -20,7 +20,8 @@ $(document).ready(function() {
 		adjust_scoreboard();
 	}*/
     $("path, circle").mousedown(function(event) {
-		alert(event.target.id)
+		//alert(event.target.id)
+		alert(event.target.parentElement.id)
 		var state = event.target.id
 		if (no_election.indexOf(state) >= 0){
 			return;
