@@ -100,8 +100,8 @@ function import_svg(){
 	// not needed if your server delivers SVG with correct MIME type
 	xhr.overrideMimeType("image/svg+xml");
 	xhr.send("");
-	//document.getElementById("svgContainer").appendChild(xhr.responseXML.documentElement);
-	document.body.appendChild(xhr.responseXML.documentElement);
+	document.getElementById("svgContainer").appendChild(xhr.responseXML.documentElement);
+	//document.body.appendChild(xhr.responseXML.documentElement);
 }
 function adjust_scoreboard(){
 	for(i = 0; i < scoreboard.length; i++){
@@ -413,6 +413,7 @@ body{
 	<div id="GOP2" class="partybar"><p></p></div>
 	<div id="GOP3" class="partybar"><p></p></div>
 </div>
+<div id="svgContainer"></div>
 </div>
 <h1 class="lowernote">Left-click = DEM / Ctrl or Right-click = GOP / Shift-click to toggle GRN-LIB<br><div style="font-size:1vw;color:#4a4a4a">App by Joseph F. Donahue - <a style="font-size:1vw;color:#4a4a4a" href="mailto:josephfdonahue@gmail.com">josephfdonahue@gmail.com</a></div></h1>
 </div>
