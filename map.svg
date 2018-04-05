@@ -211,7 +211,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path22"
          index="42"
          axis="demgop"
@@ -227,7 +227,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path25"
          index="04"
          axis="demgop"
@@ -235,7 +235,7 @@
          d="m 564,1139 6,0 5,6 3,4 -2,3 -3,-2 -4,-1 0,-3 -4,-5 -1,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path27"
          index="04"
          axis="demgop"
@@ -243,7 +243,7 @@
          d="m 558,1165 2,4 3,7 4,5 -4,1 -3,-4 -3,-6 -2,-6 3,-1" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path29"
          index="04"
          axis="demgop"
@@ -251,7 +251,7 @@
          d="m 511,1138 4,-1 4,3 -1,3 -2,0 -4,-2 -1,-3" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path31"
          index="04"
          axis="demgop"
@@ -259,7 +259,7 @@
          d="m 506,1085 3,0 6,3 9,2 5,1 1,1 4,1 -1,3 -1,0 -5,-1 -3,-1 -6,-1 -4,1 -3,-1 -4,-2 1,-3 -2,-3" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path33"
          index="04"
          axis="demgop"
@@ -267,7 +267,7 @@
          d="m 484,1078 6,3 5,3 4,1 3,4 -1,3 -4,0 -4,1 -2,-3 -1,-2 -8,-5 -3,-3 5,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path35"
          index="04"
          axis="demgop"
@@ -275,7 +275,7 @@
          d="m 403,629 7,-8 9,-10 5,-8 1,-4 -1,-2 1,-4 3,-2 3,-6 4,-9 0,-1 1,-5 0,-6 0,-5 0,-1 -1,-1 -2,-5 2,-2 3,-6 1,-4 9,3 8,3 7,2 7,2 4,1 3,1 6,1 4,1 4,2 11,3 14,4 9,2 9,3 11,3 8,3 10,3 9,2 10,3 7,2 8,2 9,2 14,4 8,2 -1,8 -4,15 -7,27 -6,20 -2,9 -6,24 -3,12 -3,11 -4,14 -3,12 -1,6 -2,7 -1,2 -2,8 -1,3 0,3 -1,4 3,5 12,18 9,14 2,3 5,6 7,12 17,25 3,4 15,23 7,11 6,8 17,25 3,5 6,9 20,30 4,7 11,16 8,12 2,3 8,12 10,14 4,6 5,9 5,7 10,14 7,11 -1,3 -1,5 2,4 3,6 1,3 1,7 2,4 -1,5 2,0 3,4 4,4 1,3 0,3 -3,1 -3,2 -3,1 -4,2 -3,0 -1,1 0,1 -1,2 -2,2 -3,3 -2,2 1,2 0,2 -1,2 0,4 0,3 -1,2 -1,1 -1,4 -1,3 -4,3 -3,3 0,1 -2,0 -3,0 1,2 -1,4 -1,2 2,2 -1,2 -1,4 -2,3 1,5 2,1 3,0 3,1 1,4 0,3 0,1 -1,4 -4,3 -2,2 -3,0 -2,0 -2,-1 -1,1 -15,-2 -25,-3 -30,-3 -4,-1 -23,-2 -4,-1 -12,-1 -15,-2 1,-3 0,-2 -1,-4 0,-1 -1,0 -3,0 0,-2 1,-5 -1,-3 1,-1 1,0 0,-1 1,-2 0,-5 0,-3 -1,-5 -1,-5 -3,-7 -4,-8 -2,-1 -2,-4 -3,-2 0,-2 -4,-5 -1,-2 -4,-3 -3,-4 -3,-6 -1,-1 -1,-1 -3,1 -3,1 -1,0 -3,-1 -1,-1 -1,-1 -2,-1 -1,-2 2,-2 1,-5 -1,-6 -3,-4 -4,-2 -4,-1 -3,0 -3,1 -2,-3 -5,-2 -6,-4 -1,-1 -5,-5 -1,-4 0,-2 0,-1 -2,-1 -2,-4 -4,-4 -1,-1 -2,-2 -4,-2 -4,0 -1,0 -4,-2 -2,-1 -2,0 -4,-3 -4,-2 -5,-2 -7,-2 -9,-1 -1,-5 -2,-2 -1,-1 -2,-1 -1,-2 4,-6 0,-2 -1,-1 3,-7 -2,-4 2,-4 2,-3 1,-3 0,-3 -1,-2 -2,-2 -2,0 -4,-4 -2,-3 2,-3 2,-3 0,-5 -3,-2 -2,-1 -4,-9 -2,-4 -4,-4 -2,-3 1,-5 -1,-1 -2,-3 -2,-4 0,-5 -1,-4 -2,-1 -1,-5 -2,-5 -4,-5 -2,-2 -2,-4 1,-6 0,-6 0,-6 3,-3 3,2 3,-3 3,-6 1,-2 -1,-3 -1,-5 -1,-3 -2,-1 -4,0 -2,-1 -2,0 -4,-5 -1,-4 -1,-3 -1,0 -1,-1 0,-2 -2,-3 0,-4 2,-4 0,-2 1,-2 -1,-4 0,-2 -1,-2 -1,-3 1,-3 2,-2 1,-4 0,-2 0,-2 1,-2 2,-1 4,1 0,1 0,3 0,1 0,1 -2,0 0,7 5,4 2,4 3,0 1,0 -1,-4 1,-4 0,-2 -2,-2 -2,-2 1,-2 -3,-2 0,-3 2,-1 0,-4 0,-1 -3,0 -1,-4 3,-1 1,-1 1,0 1,0 3,-2 0,-3 -4,-4 -5,1 -2,4 1,3 -2,2 0,2 1,3 1,2 -4,1 -2,-1 -3,-3 -3,-3 -1,0 -2,-3 -1,-3 -2,-4 -4,-2 -2,2 -2,-1 4,-6 2,-4 -1,-4 1,-2 0,-2 -3,-1 0,-2 0,-4 -2,-6 -3,-3 -3,-5 0,-2 -3,-8 -2,-3 -1,-2 -1,-2 -2,-4 -1,-2 -1,-3 -1,-3 3,-4 1,-6 -1,-5 0,-5 0,-6 2,-5 5,-6 0,-5 1,-4 -1,-3 1,-6 -2,-3 -1,-4 -2,-6 0,-1 -2,-1 1,-4 -2,-3 -2,-1 -2,-5 -3,-5 -1,-1 2,-4 0,-3 -1,-4 3,-4" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="KY"
        index="16"
        axis="demgop"
@@ -283,7 +283,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path38"
          index="16"
          axis="demgop"
@@ -291,7 +291,7 @@
          d="m 2066,1070 4,0 3,0 2,-4 2,0 3,3 2,0 2,-3 1,-2 0,-1 -2,-3 2,-3 0,-2 0,-4 1,-3 1,-3 0,-1 -2,-1 0,-3 -2,-3 3,-5 2,-3 3,-2 3,-1 5,2 4,2 3,1 5,1 2,2 2,1 2,0 1,0 1,-2 1,-4 -3,-4 -2,-4 1,-4 1,-4 2,-1 3,1 3,-4 7,-1 4,-2 0,-1 -1,-1 -3,-3 -2,-5 2,-3 3,-3 1,-4 3,1 2,0 1,-2 -2,-4 1,-1 0,-1 2,-1 4,3 4,-2 0,1 2,1 3,0 0,-3 3,-2 3,0 2,-1 1,-1 5,2 1,1 2,1 1,1 4,1 2,2 2,2 2,-4 0,-3 2,-3 1,0 3,-1 2,-3 3,-2 2,3 3,4 3,1 1,0 2,1 0,-4 5,0 -2,-4 0,-5 2,0 1,0 1,-3 2,-3 2,-1 1,-1 3,3 4,5 5,0 4,2 1,-1 1,-1 1,-1 2,-1 0,-5 0,-5 2,-4 1,-3 1,0 3,1 3,-2 1,-4 0,-2 1,-2 1,-3 4,-1 1,-3 2,-1 1,-2 -1,-2 0,-1 -1,-4 -1,-3 2,-2 3,0 1,0 2,-1 2,1 2,2 1,0 2,-1 3,-3 3,-1 2,-2 5,-1 3,0 0,-4 0,-1 0,-1 -2,-1 -2,-1 -1,0 2,-3 -1,-3 -1,-1 -1,-2 1,-1 2,-2 3,-4 2,1 2,2 3,1 3,-2 2,0 1,0 0,-1 1,-1 1,1 1,2 2,2 3,1 1,0 1,2 1,2 3,4 0,1 0,2 1,1 1,1 4,1 4,0 3,-1 3,0 1,0 3,1 1,2 2,1 1,3 4,0 1,1 2,-1 0,-3 5,-2 4,2 4,0 3,2 1,1 1,-1 1,-1 4,0 2,-1 0,-3 3,-2 1,-1 1,-1 3,-1 2,-1 1,0 1,2 0,2 2,5 2,2 4,0 3,2 1,1 2,1 2,4 0,2 0,3 2,1 0,5 -1,3 0,4 4,4 5,5 0,2 -1,2 4,2 2,2 1,2 3,3 0,1 2,3 4,2 4,3 5,2 5,0 -11,12 -4,6 -2,2 -5,2 -4,4 -1,0 -7,6 1,4 -2,2 -3,2 -2,2 1,3 -1,2 0,1 -6,3 -3,0 -2,4 0,4 -5,1 -7,4 -3,1 -1,1 -3,0 -4,3 -3,2 -1,1 -10,1 -2,1 -3,0 -12,1 -1,0 -12,2 -14,1 -1,0 -8,0 -1,0 -6,1 -9,0 -1,0 -7,2 -3,0 -12,1 -3,0 -4,1 -5,0 -6,0 -6,1 -10,0 -5,0 -2,1 -1,0 -2,0 -8,1 -3,0 -12,1 -3,1 -11,1 -15,2 -3,0 -8,1 0,-2 -8,0 -3,0 1,3 2,5 -1,3 -4,0 -18,2 -1,0 -16,1 -1,0 -6,1 -13,0 -6,1 -4,0 -6,1 -2,-3 1,-2" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="GA"
        index="09"
        axis="demgop"
@@ -299,7 +299,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path41"
          index="09"
          axis="demgop"
@@ -315,7 +315,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path44"
          index="48"
          axis="demgop"
@@ -323,7 +323,7 @@
          d="m 2144,498 4,-2 2,2 -3,4 -1,4 -2,-3 0,-5" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path46"
          index="48"
          axis="demgop"
@@ -331,7 +331,7 @@
          d="m 1968,410 1,-1 4,-1 4,1 1,1 2,4 -1,1 -1,2 -4,0 -2,-3 -1,-1 -3,-1 0,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path48"
          index="48"
          axis="demgop"
@@ -339,7 +339,7 @@
          d="m 1879,501 1,-4 1,-1 0,-1 3,-3 0,-3 2,-3 3,-3 3,-1 1,-2 4,0 1,-2 2,-1 2,0 0,-2 2,-2 0,-5 0,-6 -1,-10 0,-5 0,-11 4,0 1,-2 1,-3 2,0 2,2 2,0 2,1 3,0 3,0 8,-4 3,-1 1,0 2,0 4,-3 2,0 2,-2 3,-1 1,-2 2,1 2,-1 2,-1 2,-2 2,-1 0,-4 2,-1 4,2 2,2 3,2 -2,5 -3,4 -1,1 2,3 -3,3 -1,2 -1,2 2,0 1,0 3,-2 1,-1 2,-1 1,-3 3,3 5,3 2,0 3,2 1,-1 2,2 2,-1 2,2 3,1 3,5 2,5 9,2 13,2 24,5 5,3 2,1 6,3 3,-1 3,1 1,1 2,0 0,-2 3,0 6,2 1,-1 3,2 3,-1 3,1 3,2 2,2 -2,4 1,1 2,1 1,0 2,-1 1,2 4,0 3,2 1,1 1,2 -2,1 3,3 -1,2 0,3 0,4 -2,2 0,3 0,2 3,0 2,0 2,-2 2,1 0,3 -1,5 -2,3 3,3 2,2 3,1 -2,3 1,4 -3,1 -3,1 -2,0 -2,2 1,4 -1,1 -2,2 -1,4 -2,3 0,3 0,1 0,3 -2,2 2,2 3,1 2,-3 1,-2 4,-3 1,-1 0,-1 1,0 0,-1 0,-2 3,-5 3,-4 2,-1 3,-2 2,-3 3,-5 2,-5 1,-5 3,-1 2,-2 0,-3 2,-3 2,-1 2,1 0,4 -2,3 0,3 -1,4 -3,4 -1,4 -1,4 -3,4 -1,4 -2,6 -1,3 -2,3 -2,8 -1,9 2,4 0,3 -1,4 -2,2 -2,3 -2,7 -1,5 0,1 1,4 1,3 0,3 0,3 -3,7 0,2 0,3 -1,5 -2,7 0,7 1,4 1,4 -1,3 3,5 1,5 0,1 1,0 3,4 -1,5 0,2 -1,2 1,4 1,5 -5,1 -14,1 -1,0 -4,0 -9,1 -9,1 -4,0 -7,0 -3,0 -2,1 -15,0 -2,0 -4,1 -16,1 -4,0 -14,1 -9,0 -1,0 -9,1 -2,-5 -1,-3 -2,-1 -6,-1 -2,0 -2,-1 -3,-2 -3,-3 -2,-6 -2,-2 -1,-5 0,-1 -1,-3 0,-2 0,-4 2,-2 2,-4 1,-2 -2,-3 -3,-2 -2,-2 0,-2 -1,-1 -1,-2 1,-3 -1,-4 -1,-2 -1,-4 0,-4 1,-3 -2,-5 -1,0 -3,-4 -3,-4 -1,-1 -5,-1 -1,-1 -3,-2 -4,-4 -4,-2 -2,-2 -2,-2 -1,-5 -3,-3 -5,-3 -1,0 -6,-2 -1,0 -2,-2 -1,-4 -2,-1 -2,0 -7,-1 -3,-2 -3,-5 -2,-1 -3,-3 -1,0 2,-6 1,-5 -1,-6 -2,-2 3,-3 -1,-1 -1,-4 0,-1 0,-5 1,-1 2,-2 2,-4 0,-3 -2,-2 -2,-3 -1,-2 -2,-1 -4,0 0,-4 0,-1" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="OR"
        index="36"
        axis="demgop"
@@ -347,7 +347,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path51"
          index="36"
          axis="demgop"
@@ -363,7 +363,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path54"
          index="45"
          axis="demgop"
@@ -371,7 +371,7 @@
          d="m 2732,931 1,-5 0,-5 0,-7 0,-1 1,-5 1,-5 1,-3 0,-3 3,-2 1,-2 -3,-3 4,-4 1,-3 18,-6 -3,9 -1,3 -3,0 -2,2 -2,6 -1,6 0,4 1,3 -2,5 0,1 1,1 -2,5 0,3 -2,3 0,3 0,4 -3,5 -2,3 -2,-1 -2,-5 -3,-6" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path56"
          index="45"
          axis="demgop"
@@ -387,7 +387,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path59"
          index="41"
          axis="demgop"
@@ -395,7 +395,7 @@
          d="m 2034,1171 2,-1 3,-1 1,-3 1,-2 4,0 -1,-2 0,-3 0,-3 -4,-1 2,-2 2,-4 -2,-3 2,-1 2,0 1,-2 -2,-3 1,-3 4,0 0,-1 1,-3 3,-2 -2,-1 -3,-3 2,-4 3,1 3,-3 4,-2 -1,-2 0,-2 4,-1 0,-1 0,-1 -2,-2 -3,-3 2,-1 1,-4 1,-2 3,-2 -2,-3 -4,-2 1,-2 4,1 2,-3 -3,-2 1,-2 2,0 1,0 1,-3 -2,-2 1,-3 -1,-2 6,-1 4,0 6,-1 13,0 6,-1 1,0 16,-1 1,0 18,-2 4,0 1,-3 -2,-5 -1,-3 3,0 8,0 0,2 8,-1 3,0 15,-2 11,-1 3,-1 12,-1 3,0 8,-1 2,0 1,0 2,-1 5,0 10,0 6,-1 6,0 5,0 4,-1 3,0 12,-1 3,0 7,-2 1,0 9,0 6,-1 1,0 8,0 1,0 14,-1 12,-2 1,0 12,-1 3,0 2,-1 10,-1 1,-1 10,-1 10,-1 15,-2 7,-1 11,-2 6,-1 10,-1 3,0 3,-1 1,0 11,-2 0,-1 5,-1 9,-1 -1,2 -1,3 1,5 -1,3 0,2 2,3 -3,0 -4,0 -3,4 0,1 -1,1 -1,3 -2,7 -3,1 -2,1 -1,-2 -4,-1 -2,2 -2,0 -2,2 -3,2 0,1 -2,4 -2,2 -2,2 -3,-1 0,-3 0,-1 -2,-1 -4,3 -3,3 0,2 -1,2 -3,-1 -1,1 -1,1 1,3 -1,3 -2,2 0,1 -4,0 -2,1 -3,2 -2,2 -2,1 -1,0 0,1 -1,3 -3,0 -3,4 -1,1 -2,3 -5,0 -3,0 -1,0 -5,1 -4,4 -3,3 -2,1 -1,1 -2,3 1,2 -1,2 1,3 -3,3 -4,1 -3,-1 -3,3 0,1 0,14 -9,1 -6,1 -6,1 -2,0 -2,0 -2,1 -6,0 -4,1 -11,1 -1,0 -4,1 -1,0 -5,0 -6,1 -14,1 -23,3 -8,0 -16,2 -3,0 -19,2 -1,0 -19,1 -1,0 -12,1 -7,1 -11,0 0,1 -3,1 -5,0 -1,0 -5,0 -16,2 -2,0 -10,1 -9,0 -8,1 -4,0 -11,1 -4,0 -2,0 -2,0 -26,2 0,-2" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="LA"
        index="17"
        axis="demgop"
@@ -403,7 +403,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path62"
          index="17"
          axis="demgop"
@@ -419,7 +419,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path65"
          index="31"
          axis="demgop"
@@ -427,7 +427,7 @@
          d="m 2864,639 4,-2 1,2 -5,2 0,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path67"
          index="31"
          axis="demgop"
@@ -443,7 +443,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path70"
          index="21"
          axis="demgop"
@@ -451,7 +451,7 @@
          d="m 2243,458 5,3 5,2 3,1 -2,3 -4,0 -5,-4 -3,-3 1,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path72"
          index="21"
          axis="demgop"
@@ -459,7 +459,7 @@
          d="m 2197,473 2,-1 5,-6 7,0 0,3 -5,12 -2,2 -3,-1 -4,-7 0,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path74"
          index="21"
          axis="demgop"
@@ -467,7 +467,7 @@
          d="m 2182,519 3,-8 3,0 2,2 -1,4 -4,5 -4,-1 1,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path76"
          index="21"
          axis="demgop"
@@ -475,7 +475,7 @@
          d="m 2177,724 4,-6 3,-11 2,-3 4,-7 0,-1 2,-9 1,-2 1,-8 0,-5 0,-1 0,-8 -1,-8 -2,-6 -2,-6 -1,-2 -2,-5 -5,-8 -3,-6 -1,-3 -1,-2 -2,-5 -1,-3 1,-4 2,-5 0,-3 0,-1 -1,-5 -1,-3 -2,-3 -1,-2 3,-3 1,-2 1,-3 0,-1 2,-3 3,-8 0,-3 0,-5 0,-3 0,-3 -2,-5 0,-3 4,-2 3,-1 0,-3 1,-3 -1,-5 4,0 2,-5 3,2 3,-3 1,-5 3,-3 1,-5 4,-3 1,2 -1,9 1,1 2,3 2,-1 2,-2 2,-2 0,-4 -1,-5 0,-1 -1,-4 3,-4 4,-3 5,0 2,-1 4,-1 2,-2 -3,-1 -3,0 -4,-5 -1,-3 2,-5 4,-3 -2,-5 6,0 4,-3 2,0 1,1 7,4 5,2 2,-1 4,0 5,1 1,1 3,3 2,4 5,0 3,-1 4,3 7,2 4,2 5,-1 5,5 0,3 1,1 4,4 3,6 -4,0 -3,-1 -1,1 0,3 1,4 4,3 2,0 0,1 2,7 1,4 -1,5 1,6 0,2 0,10 -2,2 -2,2 -3,1 -1,7 0,6 -5,2 0,3 -4,1 -3,2 -1,4 -1,1 0,7 0,3 2,3 4,0 5,3 1,1 1,0 6,-9 1,-1 1,-4 1,-6 1,-2 5,-2 1,-2 5,-2 4,-2 1,-2 4,-2 7,2 4,4 4,7 2,5 1,3 1,7 4,10 3,12 1,4 2,4 4,5 0,4 -2,4 2,8 -1,8 -3,6 -4,2 -2,-3 -1,0 -1,1 -1,0 -3,2 0,6 -2,7 -1,0 -2,1 -4,4 -1,4 0,3 1,6 -2,2 -1,2 0,3 -2,3 -3,1 0,3 -2,2 -2,3 1,4 -1,1 -6,1 -8,2 -6,1 -12,2 -10,1 -2,0 -2,1 -17,2 0,-4 -1,0 -18,2 -1,1 -3,0 -17,2 -6,1 -13,1 -8,1 -13,1 -1,0 -5,1 -9,0 6,-5" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path78"
          index="21"
          axis="demgop"
@@ -483,7 +483,7 @@
          d="m 2031,350 2,-1 7,-4 3,-2 2,-1 3,-2 4,-3 3,-3 4,-2 5,-3 0,3 -5,4 -1,4 -6,3 -5,3 -2,4 -6,3 -5,3 -2,-2 -2,-1 1,-3" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path80"
          index="21"
          axis="demgop"
@@ -495,7 +495,7 @@
        id="ID"
        index="11"
        axis="demgop"
-       party="GOP1"
+       party="SWING"
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
@@ -515,7 +515,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path86"
          index="08"
          axis="demgop"
@@ -523,7 +523,7 @@
          d="m 2567,1778 3,-6 4,-3 5,-4 0,-1 7,-5 9,3 4,4 -5,3 -4,2 -2,-1 -4,2 -5,2 -4,3 -8,2 0,-1" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path88"
          index="08"
          axis="demgop"
@@ -531,7 +531,7 @@
          d="m 2556,1781 1,-2 7,-2 -2,6 -7,1 1,-3" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path90"
          index="08"
          axis="demgop"
@@ -539,7 +539,7 @@
          d="m 2545,1781 2,-4 4,2 0,3 -5,1 -1,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path92"
          index="08"
          axis="demgop"
@@ -555,7 +555,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path95"
          index="25"
          axis="demgop"
@@ -581,7 +581,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path101"
          index="26"
          axis="demgop"
@@ -597,7 +597,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path104"
          index="46"
          axis="demgop"
@@ -605,7 +605,7 @@
          d="m 602,148 7,1 2,-1 3,-3 2,0 4,4 2,6 -4,3 1,3 -2,3 -2,1 0,3 -3,0 -2,-2 -4,-2 -3,-4 -1,-6 0,-6" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path106"
          index="46"
          axis="demgop"
@@ -621,7 +621,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path109"
          index="34"
          axis="demgop"
@@ -629,7 +629,7 @@
          d="m 2357,712 1,-2 3,1 0,4 -3,1 -1,-4" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path111"
          index="34"
          axis="demgop"
@@ -637,7 +637,7 @@
          d="m 2284,880 -1,-5 0,-6 -1,-8 0,-3 -1,-10 -2,-12 0,-6 -1,-6 -1,-13 -1,-3 0,-7 -1,-2 0,-4 -1,-10 -2,-13 0,-4 -1,-8 -1,-9 -1,-1 -1,-8 0,-2 -1,-6 -1,-11 17,-2 2,-1 2,0 10,-1 12,-2 6,-1 8,-2 6,-1 2,2 4,-1 5,3 3,1 5,1 2,3 5,2 3,-5 1,-1 6,3 2,2 4,4 4,2 3,0 5,-4 4,0 4,-4 5,-2 3,-2 1,1 1,0 1,0 5,-1 1,0 2,0 1,0 5,-4 5,-7 1,-1 3,-4 5,-4 4,-3 6,-4 2,-1 4,-2 5,-3 9,-5 3,-2 1,9 2,11 2,11 2,10 1,6 1,7 1,9 1,5 1,3 2,14 -3,2 -2,0 -2,2 3,4 2,4 -1,4 2,5 -1,4 -1,4 -1,2 0,1 -1,5 1,2 0,4 -1,2 -1,2 -1,5 1,3 -2,2 2,3 1,0 -2,4 -3,4 -4,5 -1,2 -2,4 -3,2 -2,3 -5,3 -1,0 -1,0 -1,-2 -2,-1 -2,3 -3,3 1,3 -3,1 -3,0 -1,4 0,1 -2,2 2,4 -1,1 -2,1 1,3 1,4 -2,2 -3,2 -3,-4 -3,-2 -2,1 -2,3 0,1 -1,4 -1,5 -2,2 1,3 1,6 1,3 -2,1 -2,1 -1,1 0,1 0,4 0,3 -3,1 -3,1 -3,2 -3,1 -1,-1 -2,-4 -2,-1 -1,-1 -3,-2 -4,0 -2,-2 -2,-5 0,-2 -1,-2 -1,0 -2,1 -3,1 -1,1 -1,1 -3,2 0,3 -2,1 -4,0 -1,1 -1,1 -1,-1 -3,-2 -4,0 -4,-2 -5,2 0,3 -2,1 -1,-1 -4,0 -1,-3 -2,-1 -1,-2 -3,-1 -1,0 -3,0 -3,1 -4,0 -4,-1 -1,-1 -1,-1 0,-2 0,-1 -3,-4 -1,-2 -1,-2 -1,0 -3,-1 -2,-2 -1,-2 -1,-1 -1,1 0,1 -1,0 -2,0 -3,2 -3,-1 -2,-2 -2,-1 -3,4 -1,-8" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="IL"
        index="12"
        axis="demgop"
@@ -645,7 +645,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path114"
          index="12"
          axis="demgop"
@@ -661,7 +661,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path117"
          index="24"
          axis="demgop"
@@ -669,7 +669,7 @@
          d="m 1752,825 11,0 8,0 2,0 6,0 6,0 8,1 4,0 9,0 5,0 3,0 8,-1 3,0 7,0 4,0 8,0 3,-1 9,0 2,0 8,0 2,0 10,-1 1,0 8,0 11,-1 1,0 2,0 9,-1 5,0 8,0 12,-1 10,-1 2,2 1,2 2,0 1,3 2,2 2,2 1,2 4,1 -2,4 -1,3 0,2 0,3 -1,2 1,5 1,4 3,5 0,2 0,4 2,2 2,2 0,1 0,2 3,3 1,1 5,4 0,1 2,2 2,1 2,3 2,2 5,3 5,4 5,5 1,2 1,5 1,3 -1,3 2,4 1,3 0,1 3,3 2,0 3,-3 1,-3 1,0 3,0 4,2 2,0 2,0 1,1 5,3 0,3 -3,2 -1,3 0,3 1,1 0,3 -3,5 0,1 0,1 -1,1 0,4 -3,3 0,1 -1,3 1,6 1,1 1,2 4,3 2,2 0,1 4,2 3,2 3,3 3,0 -1,3 3,2 0,1 3,-3 4,3 4,3 1,1 1,2 4,2 4,2 1,4 1,3 -1,1 0,2 2,4 3,4 0,3 -2,1 -1,1 -1,3 1,1 1,1 1,4 4,5 2,4 2,0 3,1 3,1 3,1 2,1 0,1 -1,3 -1,3 0,4 0,2 -2,3 2,3 0,1 -1,2 -2,3 -2,0 -3,-3 -2,0 -2,4 -3,0 -4,0 -1,2 2,3 1,2 -1,3 2,2 -1,3 -1,0 -2,0 -1,2 3,2 -2,3 -4,-1 -1,2 4,2 2,3 -3,2 -1,2 -1,4 -2,1 -8,1 -3,0 -8,1 -9,0 -4,1 1,-4 2,-4 3,-2 1,-3 1,-1 2,-1 2,-3 2,-3 0,-3 0,-2 -4,-2 0,-3 -1,-2 -3,0 -14,1 -4,0 -10,1 -1,0 -12,0 -5,1 -14,0 -2,0 -10,1 -2,0 -15,1 -7,0 -2,0 -10,0 -9,1 -2,0 -10,0 -4,0 -14,1 -8,0 -2,0 -5,0 -8,0 -6,0 -8,1 -5,0 -6,0 -14,0 -13,0 -1,-7 0,-3 0,-7 0,-14 0,-4 0,-7 0,-11 0,-2 0,-3 0,-15 0,-1 0,-1 -1,-20 0,-3 0,-1 0,-12 0,-9 0,-6 0,-4 0,-12 0,-1 0,-6 0,-9 0,-4 0,-4 0,-3 -1,0 -3,-2 -3,1 -2,-2 -1,0 -1,-2 -2,-2 -2,-4 1,-4 -3,0 -1,-2 -1,-1 -3,-3 -2,-3 -1,-1 2,-2 1,-1 0,-1 0,-3 4,-2 0,-2 3,0 2,-2 -1,-1 0,-3 0,-1 -3,-3 -1,-1 -2,0 -1,0 -3,2 -3,-2 -4,-3 -4,-4 -2,-1 -2,0 -1,-3 1,-2 -2,-3 -2,-3 0,-3 -4,-1 0,-2 -2,-1 -3,-1 1,-3 0,-2 -2,-4 -1,-2 0,-2 -1,0 -2,0 0,-4" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="IA"
        index="14"
        axis="demgop"
@@ -677,7 +677,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path120"
          index="14"
          axis="demgop"
@@ -701,7 +701,7 @@
          d="m 1689,292 12,0 23,0 18,0 27,0 7,0 0,-11 0,-8 0,-5 4,2 3,-1 2,0 3,2 2,1 1,7 1,5 1,2 0,6 2,0 1,7 0,3 0,3 3,3 5,3 3,0 2,-1 5,0 1,2 0,1 7,1 7,1 3,0 2,3 0,3 6,0 4,0 4,-2 0,-2 4,-1 1,-2 6,-1 3,1 2,0 6,-1 3,3 7,3 4,0 0,2 -1,2 3,2 3,-1 3,2 -1,4 3,4 2,4 2,-1 1,-2 0,-3 1,-2 4,-1 5,0 2,2 1,5 4,0 4,2 1,1 3,-1 1,5 6,1 1,3 3,-1 5,0 4,-1 4,-4 5,-3 5,-4 3,0 2,4 1,3 3,2 6,-2 4,1 7,-1 7,-1 5,2 3,4 4,1 5,-2 6,0 5,0 -2,2 -5,2 -3,2 -2,2 -6,2 -2,3 -4,1 -5,2 -5,2 -4,2 -5,2 -5,3 -4,2 -5,5 -6,6 -5,6 -5,6 -5,6 -3,4 -5,3 -3,4 -4,3 -2,3 -1,0 -4,3 -4,4 -2,2 2,6 -2,0 -2,-2 -2,0 -1,3 -1,2 -4,0 0,11 0,5 1,10 0,6 0,5 -2,2 0,2 -2,0 -2,1 -1,2 -4,0 -1,2 -3,1 -3,3 -2,3 0,3 -3,3 0,1 -1,1 -1,4 0,1 0,4 4,0 2,1 1,2 2,3 2,2 0,3 -2,4 -2,2 -1,1 0,5 0,1 1,4 1,1 -3,3 2,2 1,6 -1,5 -2,6 1,0 3,3 2,1 3,5 3,2 7,1 2,0 2,1 1,4 2,2 1,0 6,2 1,0 5,3 3,3 1,5 2,2 2,2 4,2 4,4 3,2 1,1 5,1 1,1 3,4 3,4 1,0 2,5 -1,3 0,4 1,4 1,2 1,4 -13,1 -5,0 -6,0 -4,0 -12,1 -4,0 -13,1 -4,0 -15,0 -7,0 -1,0 -8,1 -13,0 -3,0 -3,0 -15,1 -13,0 -6,0 -3,0 -19,0 -1,0 -1,0 -14,0 -8,0 -3,0 -2,0 -16,1 -1,0 -9,0 -6,0 -12,-1 0,-3 0,-19 0,-22 0,-10 0,-12 0,-5 0,-11 0,-11 0,-19 0,-2 0,-1 -1,-2 -2,-1 -1,-1 -3,-2 -2,0 -2,-1 -1,-3 -2,-4 -2,-3 -1,0 0,-2 1,-2 4,-3 3,-2 2,-3 2,-2 0,-4 1,-4 -1,-5 1,-4 -1,-9 -1,-6 -2,-3 -2,-5 -2,-8 -2,-4 0,-4 0,-5 1,-9 -2,-6 0,-4 0,-5 0,-5 -1,-3 0,-10 0,-4 0,-4 -1,-5 -1,-1 -1,-5 -3,-6 -2,-6 -1,-6 -2,-4 -1,-5 0,-1 1,-4 -1,-6 0,-5 0,-7 0,-3 2,-5 -1,-3 -1,-4 -1,-6 -2,-5 0,-3" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="SD"
        index="40"
        axis="demgop"
@@ -709,7 +709,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path123"
          index="40"
          axis="demgop"
@@ -717,7 +717,7 @@
          d="m 1380,529 1,0 0,-8 1,-5 1,-8 0,-10 1,-4 1,-12 0,-7 0,-1 1,-4 16,1 10,1 10,0 10,1 2,0 3,1 8,0 6,1 10,0 11,1 4,0 9,1 10,0 9,1 11,1 15,0 11,1 1,0 9,0 6,1 12,0 7,1 5,0 5,0 7,0 11,1 4,0 12,0 5,0 9,1 15,0 3,0 1,0 9,0 11,1 13,0 7,0 23,0 -1,4 0,4 -2,2 -2,3 -3,2 -4,3 -1,2 0,2 1,0 2,3 2,4 1,3 2,1 2,0 3,2 1,1 2,1 1,2 0,1 0,2 0,19 0,11 0,11 0,5 0,12 0,10 0,22 0,19 0,3 -7,0 1,2 -1,3 4,3 0,2 -1,3 -2,1 1,2 0,1 2,1 2,0 1,5 1,2 -1,2 0,1 -3,2 1,2 -1,2 1,1 -2,2 0,1 0,2 -2,3 -2,3 0,4 1,2 3,3 2,5 1,1 -1,2 1,1 1,1 -3,0 -1,-2 -4,1 0,-2 -2,-2 -2,-3 0,-3 -3,0 -1,-3 -1,0 -4,-2 -3,1 -2,-2 -1,-1 -5,0 -1,-2 -2,-2 -2,-2 -2,-1 -2,1 -4,-1 -1,2 -2,-1 -1,0 -4,0 -2,0 -3,1 -5,-1 -2,-1 -1,1 -1,3 -3,2 -4,0 -3,-3 -2,-2 -3,-1 -3,-1 -1,-1 -4,-2 -2,-1 -2,-2 -1,-2 -16,-1 -18,0 -13,-1 -15,0 -16,-1 -37,-2 -11,0 -39,-3 -15,-1 -18,-1 -9,-1 -22,-1 -1,0 -26,-2 2,-19 1,-12 0,-1 0,-4 2,-18 1,-19 1,-2 0,-5 2,-20 0,-7 2,-20" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="AR"
        index="03"
        axis="demgop"
@@ -725,7 +725,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path126"
          index="03"
          axis="demgop"
@@ -748,7 +748,7 @@
        id="path129"
        transform="matrix(1.0346444,0,0,1.0346444,-0.74342963,-3)" />
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="CO"
        index="05"
        axis="demgop"
@@ -756,7 +756,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path132"
          index="05"
          axis="demgop"
@@ -764,7 +764,7 @@
          d="m 1100,914 6,-39 2,-16 2,-8 1,-10 2,-14 2,-19 1,-3 4,-27 1,-11 2,-11 37,5 16,2 26,3 2,1 22,2 25,3 5,1 2,0 43,4 15,2 5,0 17,2 21,1 22,2 9,1 15,1 20,2 1,0 3,0 24,1 -1,17 0,3 -1,16 0,6 0,1 -2,21 0,12 -1,15 0,1 -1,12 -1,15 0,6 -2,22 0,5 -1,15 0,8 -1,9 -1,24 0,1 -1,5 -1,17 0,8 -1,10 0,4 0,3 -16,-1 -17,-2 -7,0 -8,-1 -5,0 -32,-3 -14,-1 -16,-1 -20,-2 -19,-2 -2,0 -3,0 -2,0 -8,-1 -6,-1 -9,-1 -14,-1 -1,0 -16,-2 -7,-1 -20,-2 -27,-3 -3,-1 -26,-3 -19,-2 -12,-2 -21,-3 4,-31 4,-25 2,-17 0,-1 0,-7 2,-14" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="NC"
        index="32"
        axis="demgop"
@@ -772,7 +772,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path135"
          index="32"
          axis="demgop"
@@ -784,7 +784,7 @@
        id="UT"
        index="43"
        axis="demgop"
-       party="GOP1"
+       party="SWING"
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
@@ -796,7 +796,7 @@
          d="m 847,930 2,-9 2,-8 3,-17 1,-6 2,-10 2,-10 1,-7 3,-13 1,-8 6,-30 1,-3 3,-16 1,-7 3,-12 0,-1 3,-18 1,-6 3,-14 4,-17 2,-13 4,-18 3,-17 3,-15 10,3 15,2 11,2 12,2 16,3 18,3 4,1 3,0 16,3 12,2 1,0 5,1 15,2 -4,27 0,1 -3,13 -1,6 -2,16 24,4 19,3 4,1 2,0 13,2 22,3 10,1 -2,11 -1,11 -4,27 -1,3 -2,19 -2,14 -1,10 -2,8 -2,16 -6,39 -2,14 0,7 0,1 -2,17 -4,25 -4,31 -22,-3 -26,-4 -23,-3 -14,-3 -15,-2 -11,-2 -6,-1 -1,0 -46,-8 -9,-1 -1,0 -14,-3 -3,0 -3,-1 -50,-9 -4,-1 1,-5 2,-13 3,-13 1,-7" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="OK"
        index="35"
        axis="demgop"
@@ -804,7 +804,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path141"
          index="35"
          axis="demgop"
@@ -820,7 +820,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path144"
          index="49"
          axis="demgop"
@@ -836,7 +836,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path147"
          index="47"
          axis="demgop"
@@ -853,7 +853,7 @@
        inkscape:label="#">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path150"
          index="13"
          axis="demgop"
@@ -869,7 +869,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path153"
          index="20"
          axis="demgop"
@@ -877,7 +877,7 @@
          d="m 2943,615 3,-1 6,-2 0,-5 3,2 3,5 -2,2 -4,1 -5,1 -4,-3" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path155"
          index="20"
          axis="demgop"
@@ -885,7 +885,7 @@
          d="m 2917,620 3,-2 2,-6 3,-3 3,1 3,1 1,0 2,4 -6,2 -5,2 -3,3 -1,4 -2,-4 0,-2" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path157"
          index="20"
          axis="demgop"
@@ -901,7 +901,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path160"
          index="27"
          axis="demgop"
@@ -917,7 +917,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path163"
          index="06"
          axis="demgop"
@@ -933,7 +933,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path166"
          index="38"
          axis="demgop"
@@ -941,7 +941,7 @@
          d="m 2883,641 1,-5 2,-1 1,4 2,2 -4,1 -2,-1" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path168"
          index="38"
          axis="demgop"
@@ -957,7 +957,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path171"
          index="00"
          axis="demgop"
@@ -965,7 +965,7 @@
          d="m 2144,1363 0,-3 0,-7 0,-11 1,-2 0,-3 0,-18 0,-8 0,-14 0,-4 1,-12 0,-7 0,-16 0,-10 0,-3 1,-20 0,-2 0,-15 0,-9 1,-8 0,-2 0,-18 -3,-1 -3,-5 0,-1 11,0 7,-1 12,-1 1,0 19,-1 1,0 19,-2 3,0 16,-2 8,0 23,-3 14,-1 0,4 2,4 1,7 3,8 0,2 1,4 1,3 3,8 1,4 3,10 0,2 2,8 1,3 3,9 2,7 2,8 1,2 1,4 5,18 0,2 4,14 0,1 2,2 2,5 1,1 2,4 1,3 0,2 4,3 1,1 2,4 0,4 0,1 -1,2 3,2 3,2 -1,2 0,1 -4,2 -3,4 1,3 0,2 0,4 0,2 -2,5 -1,3 1,4 0,1 1,2 0,2 4,4 0,4 2,1 -1,2 0,3 0,2 -1,5 1,2 0,1 0,1 -1,3 1,4 4,5 1,2 1,1 1,3 -2,0 -6,1 -10,1 -9,1 -4,1 -10,1 -7,1 -8,1 -8,1 -10,0 -1,1 -9,1 -7,0 -5,1 -3,0 -5,0 -13,1 -8,1 -6,1 -5,0 -4,1 0,3 -2,5 6,6 1,2 5,2 2,2 1,3 -2,4 0,3 2,3 2,1 -3,2 -1,4 -3,4 -7,3 -9,2 -4,0 4,-3 1,-3 -4,-3 -3,-4 -2,-3 2,-4 -1,-2 -1,-4 -5,-2 -3,3 1,4 -1,2 -1,3 0,7 -1,5 -3,0 -3,0 -4,-2 -3,-1 -1,1 -2,-11 -1,-12 -2,-17 -1,-7 -2,-19 -1,-1 -1,-12 -1,-5 0,-6 -1,-6" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="SC"
        index="39"
        axis="demgop"
@@ -973,7 +973,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path174"
          index="39"
          axis="demgop"
@@ -989,7 +989,7 @@
        transform="matrix(0.35494652,0,0,0.35494652,-141.61759,-47.561925)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path177"
          index="18"
          axis="demgop"
@@ -997,7 +997,7 @@
          d="m 2958,440 2,-1 2,3 -1,3 -3,-1 0,-4" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path179"
          index="18"
          axis="demgop"
@@ -1013,7 +1013,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path182"
          index="02"
          axis="demgop"
@@ -1029,7 +1029,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path185"
          index="30"
          axis="demgop"
@@ -1045,7 +1045,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path188"
          index="19"
          axis="demgop"
@@ -1053,7 +1053,7 @@
          d="m 2721,885 2,-1 2,2 1,4 -4,0 -1,-5" />
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path190"
          index="19"
          axis="demgop"
@@ -1069,7 +1069,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path193"
          index="07"
          axis="demgop"
@@ -1085,7 +1085,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path196"
          index="37"
          axis="demgop"
@@ -1093,7 +1093,7 @@
          d="m 2474,745 -1,-5 -1,-9 -1,-7 -1,-6 -2,-10 -2,-11 -2,-11 -1,-9 8,-5 7,-6 1,-2 2,-2 3,0 4,-4 3,-2 4,-3 1,9 2,8 7,-1 6,-1 19,-3 4,-1 3,-1 14,-2 14,-3 1,0 3,-1 8,-1 10,-2 3,-1 7,-1 27,-6 2,0 2,0 17,-4 4,-1 1,0 14,-3 2,0 11,-2 14,-4 3,0 1,0 5,-1 1,0 3,2 2,4 4,0 2,1 1,0 3,2 1,3 2,7 1,2 0,2 4,4 5,1 5,1 2,0 1,0 2,4 -2,1 -2,4 -2,4 0,5 -3,4 -1,1 0,2 -2,4 -3,3 1,0 2,3 2,2 -1,2 0,4 -3,2 0,4 1,2 1,2 0,2 0,1 1,2 2,-1 3,1 2,4 0,2 1,2 2,0 2,0 2,2 1,1 1,2 3,1 2,2 4,2 1,1 1,2 -2,2 -2,1 -1,3 -3,1 -2,2 -1,1 -2,3 -3,3 0,1 1,3 -1,0 -2,1 -1,2 -2,1 -1,1 -3,0 0,1 -1,2 -1,1 -4,-1 -4,0 -1,1 -3,1 -3,3 -1,2 0,3 -1,0 -1,0 -15,3 -5,1 -9,2 -7,2 -7,1 -3,1 -10,2 -11,2 -1,0 -10,2 -1,0 -14,3 -14,3 -2,0 -11,2 -2,0 -16,3 -4,1 -6,1 -6,1 -16,3 -4,1 -14,2 -7,2 -6,1 -2,0 -16,3 -5,0 -2,-15 -1,-3 -1,-9 -2,-12 -1,-3 -1,-5 -1,-10 -2,-14 -1,-3" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="KS"
        index="15"
        axis="demgop"
@@ -1101,7 +1101,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path199"
          index="15"
          axis="demgop"
@@ -1117,7 +1117,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path202"
          index="44"
          axis="demgop"
@@ -1133,7 +1133,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path205"
          index="29"
          axis="demgop"
@@ -1149,7 +1149,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#ffffff"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path208"
          index="33"
          axis="demgop"
@@ -1157,7 +1157,7 @@
          d="m 1402,278 28,2 18,2 4,0 27,2 8,0 17,1 5,1 16,1 29,1 10,1 12,0 16,1 6,0 16,0 6,1 38,1 8,0 23,0 0,3 2,5 1,6 1,4 1,3 -2,5 0,3 0,7 0,5 1,6 -1,4 0,1 1,5 2,4 1,6 2,6 3,6 1,5 1,1 1,5 0,4 0,4 0,10 1,3 0,5 0,5 0,4 2,6 -1,9 0,5 0,4 2,4 2,8 2,5 2,3 1,6 1,9 -1,4 1,5 -23,0 -7,0 -13,0 -11,-1 -9,0 -1,0 -3,0 -15,0 -9,-1 -5,0 -12,0 -4,0 -11,-1 -7,0 -5,0 -5,0 -7,-1 -12,0 -6,-1 -9,0 -1,0 -11,-1 -15,0 -11,-1 -9,-1 -10,0 -9,-1 -4,0 -11,-1 -10,0 -6,-1 -8,0 -3,-1 -2,0 -10,-1 -10,0 -10,-1 -16,-1 1,-22 1,-2 1,-12 0,-2 0,-6 1,-5 1,-14 1,-12 1,-13 0,-4 1,-13 2,-12 0,-11 1,-1 1,-16 0,-9 1,-6 1,-9 1,-13 1,-10" />
     </g>
     <g
-       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       fill="#cccccc" style="stroke:#4a4a4a;stroke-width:3.5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="NH"
        index="28"
        axis="demgop"
@@ -1165,7 +1165,7 @@
        transform="matrix(0.35494901,0,0,0.35494901,-141.62465,-47.5632)">
       <path
          inkscape:connector-curvature="0"
-         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill:#cccccc;fill-opacity:1"
+         style="stroke:#4a4a4a;stroke-width:3.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path211"
          index="28"
          axis="demgop"
