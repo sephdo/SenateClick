@@ -22,7 +22,6 @@ $(document).ready(function() {
     $("path, circle").mousedown(function(event) {
 		alert(event.target.id)
 		var state = event.target.id
-		if state in no_election:
 		if (no_election.indexOf(state) >= 0){
 			return;
 		}
