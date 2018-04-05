@@ -6,8 +6,9 @@
 <script>
 $(document).ready(function() {
 	import_svg();
-	retrieve_local();
-	adjust_scoreboard();
+	localStorage.clear();
+	//retrieve_local();
+	//adjust_scoreboard();
 	if(localStorage["split"]==="yes"){
 		$(".mene").attr("visibility","visible")
 		ev_arr[18]["ev"]=2
