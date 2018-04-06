@@ -1,0 +1,362 @@
+{
+    "AL-II": {
+        "state": "Alabama",
+        "class": 2,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Strange",
+            "party": "R"
+        }
+    },
+    "AZ-I": {
+        "state": "Arizona",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Flake",
+            "party": "R"
+        }
+    },
+    "CA-I": {
+        "state": "California",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Feinstein",
+            "party": "D"
+        }
+    },
+    "CT-I": {
+        "state": "Connecticut",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Murphy",
+            "party": "D"
+        }
+    },
+    "DE-I": {
+        "state": "Delaware",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Carper",
+            "party": "D"
+        }
+    },
+    "FL-I": {
+        "state": "Florida",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Nelson",
+            "party": "D"
+        }
+    },
+    "HI-I": {
+        "state": "Hawaii",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Hirono",
+            "party": "D"
+        }
+    },
+    "IN-I": {
+        "state": "Indiana",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Donnelly",
+            "party": "D"
+        }
+    },
+    "ME-I": {
+        "state": "Maine",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "King",
+            "party": "I"
+        }
+    },
+    "MD-I": {
+        "state": "Maryland",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Cardin",
+            "party": "D"
+        }
+    },
+    "MA-I": {
+        "state": "Massachusetts",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Warren",
+            "party": "D"
+        }
+    },
+    "MI-I": {
+        "state": "Michigan",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Stabenow",
+            "party": "D"
+        }
+    },
+    "MN-I": {
+        "state": "Minnesota",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Klobuchar",
+            "party": "D"
+        }
+    },
+    "MN-II": {
+        "state": "Minnesota",
+        "class": 2,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Smith",
+            "party": "D"
+        }
+    },
+    "MS-I": {
+        "state": "Mississippi",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Wicker",
+            "party": "R"
+        }
+    },
+    "MS-II": {
+        "state": "Mississippi",
+        "class": 2,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Hyde-Smith",
+            "party": "R"
+        }
+    },
+    "MO-I": {
+        "state": "Missouri",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "McCaskill",
+            "party": "D"
+        }
+    },
+    "MT-I": {
+        "state": "Montana",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Tester",
+            "party": "D"
+        }
+    },
+    "NE-I": {
+        "state": "Nebraska",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Fischer",
+            "party": "R"
+        }
+    },
+    "NV-I": {
+        "state": "Nevada",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Heller",
+            "party": "R"
+        }
+    },
+    "NJ-I": {
+        "state": "New Jersey",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Menendez",
+            "party": "D"
+        }
+    },
+    "NM-I": {
+        "state": "New Mexico",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Heinrich",
+            "party": "D"
+        }
+    },
+    "NY-I": {
+        "state": "New York",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Gillibrand",
+            "party": "D"
+        }
+    },
+    "ND-I": {
+        "state": "North Dakota",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Heitkamp",
+            "party": "D"
+        }
+    },
+    "OH-I": {
+        "state": "Ohio",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Brown",
+            "party": "D"
+        }
+    },
+    "PA-I": {
+        "state": "Pennsylvania",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Casey",
+            "party": "D"
+        }
+    },
+    "RI-I": {
+        "state": "Rhode Island",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Whitehouse",
+            "party": "D"
+        }
+    },
+    "TN-I": {
+        "state": "Tennessee",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Corker",
+            "party": "R"
+        }
+    },
+    "TX-I": {
+        "state": "Texas",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Cruz",
+            "party": "R"
+        }
+    },
+    "UT-I": {
+        "state": "Utah",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Hatch",
+            "party": "R"
+        }
+    },
+    "VT-I": {
+        "state": "Vermont",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Sanders",
+            "party": "I"
+        }
+    },
+    "VA-I": {
+        "state": "Virginia",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Kaine",
+            "party": "D"
+        }
+    },
+    "WA-I": {
+        "state": "Washington",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Cantwell",
+            "party": "D"
+        }
+    },
+    "WV-I": {
+        "state": "West Virginia",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Manchin",
+            "party": "D"
+        }
+    },
+    "WI-I": {
+        "state": "Wisconsin",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Baldwin",
+            "party": "D"
+        }
+    },
+    "WY-I": {
+        "state": "Wyoming",
+        "class": 1,
+        "party": "SWING",
+        "axis": "demgop",
+        "incumbent": {
+            "name": "Barrasso",
+            "party": "R"
+        }
+    }
+}

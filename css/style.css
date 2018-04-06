@@ -1,44 +1,48 @@
-body{
+html, body{
 	width:100%;
 	height:100%;
 	display:flex;
-	margin:0;
+	margin:auto;
 }
 #container{
 	position:relative;
 	margin:auto;
 	width:90%;
 	max-width:160vh;
+	max-height:90%;
 	vertical-align:middle;
 	text-align:center;
 	
 }
 #map{
 	width:100%;
-	height:80%;
-	margin-bottom:2%;
 	margin-top:2%;
-
-
 }
-#lowernote{
-	display:inline;
-	position:relative;
-	width:100%;
-	height:10%;
-	font-family:sans-serif;
-	font-weight:bold;
-	font-style:italic;
-	font-size:2vw;
+button, .lowernote, .attribution, .scoretext, svg text{
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-khtml-user-select: none;
-	-ms-user-select: none;
+	-ms-user-select: none;}
+.lowernote{
+	width:100%;
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+	font-style:italic;
+	font-size:1.6em;
+	
+}
+.attribution{
+	width:100%;
+	text-align:center;
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+	font-style:italic;
 }
 #scorebar{
 	position:relative;
 	display:flex;
 	width:100%;
+	
 	margin:auto;
 }
 
@@ -101,7 +105,7 @@ body{
 	display:inline-block;
 	width:calc(100% / 7);
 	height:100%;
-	
+	height:5vh;
 	margin:0;
 	border:0;
 }
@@ -111,16 +115,8 @@ body{
 	z-index:100;
 	width:100%;
 	line-height:100%;
-	
-	
-	
-	
-	font-family:sans-serif;
+	font-family: 'Roboto', sans-serif;
 	font-weight:bold;
-	-webkit-user-select: none;
-	-moz-user-select: none;
-	-khtml-user-select: none;
-	-ms-user-select: none;
 }
 #righttext{
 	text-align:right;
@@ -133,6 +129,13 @@ body{
 .scoretext_wrapper{
 	position:absolute;
 	display:flex;
-
 	width:100%;
+}
+
+svg text {
+	cursor: default;
+	pointer-events: none;
+}
+svg text::selection {
+    background: none;
 }
