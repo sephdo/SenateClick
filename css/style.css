@@ -16,9 +16,8 @@ html, body{
 }
 #map{
 	width:100%;
-	margin-top:2%;
 }
-button, .lowernote, .attribution, .scoretext, svg text{
+#optPanel, button, .lowernote, .attribution, .scoretext, #veep, svg text{
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-khtml-user-select: none;
@@ -27,7 +26,7 @@ button, .lowernote, .attribution, .scoretext, svg text{
 	width:100%;
 	font-family: 'Roboto', sans-serif;
 	font-weight:bold;
-	font-style:italic;
+	
 	font-size:1.6em;
 	
 }
@@ -36,9 +35,9 @@ button, .lowernote, .attribution, .scoretext, svg text{
 	text-align:center;
 	font-family: 'Roboto', sans-serif;
 	font-weight:bold;
-	font-style:italic;
+	
 }
-#scorebar{
+.scorebar{
 	position:relative;
 	display:flex;
 	width:100%;
@@ -46,23 +45,29 @@ button, .lowernote, .attribution, .scoretext, svg text{
 	margin:auto;
 }
 
+#DEM4{
+	background-color:#0091EA
+}
 #DEM3{
-	background-color:#19b3ff
+	background-color:#03A9F4
+}
+.DEM3-text{
+	color:#03A9F4
 }
 #DEM2{
-	background-color:#59c8ff
+	background-color:#4FC3F7
 }
 #DEM1{
-	background-color:#99ddff
+	background-color:#B3E5FC
 }
 #GREEN3{
-	background-color:#19ff19
+	background-color:#00E676
 }
 #GREEN2{
-	background-color:#59ff59
+	background-color:#69F0AE
 }
 #GREEN1{
-	background-color:#99ff99
+	background-color:#B9F6CA
 }
 
 #SWING{
@@ -70,17 +75,17 @@ button, .lowernote, .attribution, .scoretext, svg text{
 }
 
 #LIB1{
-	background-color:#ffef99
+	background-color:#FFE57F
 }
 #LIB2{
-	background-color:#ffe659
+	background-color:#FFD740
 }
 #LIB3{
-	background-color:#ffdc19
+	background-color:#FFC400
 }
 
 #GOP1{
-	background-color:#ffa999
+	background-color:#ffa399
 }
 #GOP2{
 	background-color:#ff7359
@@ -88,7 +93,14 @@ button, .lowernote, .attribution, .scoretext, svg text{
 #GOP3{
 	background-color:#ff3d19
 }
-#winmarker{
+.GOP3-text{
+	color:#ff3d19
+}
+#GOP4{
+	background-color:#D32F2F
+}
+
+.winmarker{
 	background-color:#000000;
 	width:calc(100% / 538);
 	height:5vh;
@@ -97,34 +109,48 @@ button, .lowernote, .attribution, .scoretext, svg text{
 	z-index:100;
 	margin:auto;
 }
-#scoreboard_wrapper{
+.scoreboard_wrapper{
 	height:5%;
 }
-.partybar{
+.partybar {
+	width:calc(100% / 7);
+}
+.caucusbar {
+	width:50%;
+}
+.partybar, .caucusbar{
 	position:relative;
 	display:inline-block;
-	width:calc(100% / 7);
 	height:100%;
 	height:5vh;
 	margin:0;
 	border:0;
 }
 .scoretext{
+	width:100%;
+}
+.scoretext, .caucusbar{
+	font-size:5vh;
 	position:relative;
 	display:table-cell;
 	z-index:100;
-	width:100%;
 	line-height:100%;
 	font-family: 'Roboto', sans-serif;
 	font-weight:bold;
 }
-#righttext{
+#demscore, #gopscore{
+	color:#ffffff;
+}
+.righttext, #gopgain{
 	text-align:right;
 	margin:0 1% 0 0;
 }
-#lefttext{
+.lefttext, #demgain{
 	text-align:left;
 	margin:0 0 0 1%;
+}
+.centertext {
+	text-align:center;
 }
 .scoretext_wrapper{
 	position:absolute;

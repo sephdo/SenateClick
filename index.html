@@ -6,17 +6,22 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="./css/style.css">
+<link rel="stylesheet" type="text/css" href="./css/map.css">
 <script>
 $(document).ready(function() {
 	$(function() {
 		
 		import_svg(handle_resize);
-		fontsize();
-		$(window).resize(fontsize);
+		//fontsize();
+		//$(window).resize(fontsize);
 		retrieve_local();
 		adjust_scoreboard();
 		$("path, circle").mousedown(click_state);
-		$("#reset").click(reset_map)
+		$("#reset_btn").click(reset_map)
+		$("#2012_btn").click(lastResult)
+		$("#alabama_btn").click(function(event){
+		    toggleAlabama()
+		})
 		
 	});
 });
@@ -28,32 +33,56 @@ $(document).ready(function() {
 <div id="container">
 <div id="scoreboard_wrapper">
 <div class="scoretext_wrapper">
-<div class="scoretext" id="lefttext">DEM</div>
+<div class="scoretext lefttext" id="demscore">DEM</div>
 </div>
 <div class="scoretext_wrapper">
-<div class="scoretext" id="righttext">GOP</div>
+<div class="scoretext righttext" id="gopscore">GOP</div>
 </div>
 
-<div id="winmarker"></div>
-<div id="scorebar">
-	<div id="DEM3" class="partybar"><p></p></div>
-	<div id="DEM2" class="partybar"><p></p></div>
-	<div id="DEM1" class="partybar"><p></p></div>
-	<div id="GREEN3" class="partybar"><p></p></div>
-	<div id="GREEN2" class="partybar"><p></p></div>
-	<div id="GREEN1" class="partybar"><p></p></div>
-	<div id="SWING" class="partybar"><p></p></div>
-	<div id="LIB1" class="partybar"><p></p></div>
-	<div id="LIB2" class="partybar"><p></p></div>
-	<div id="LIB3" class="partybar"><p></p></div>
-	<div id="GOP1" class="partybar"><p></p></div>
-	<div id="GOP2" class="partybar"><p></p></div>
-	<div id="GOP3" class="partybar"><p></p></div>
+<div class="winmarker"></div>
+<div class="scorebar">
+    <div id="DEM4" class="partybar"></div>
+	<div id="DEM3" class="partybar"></div>
+	<div id="DEM2" class="partybar"></div>
+	<div id="DEM1" class="partybar"></div>
+	<div id="GREEN3" class="partybar"></div>
+	<div id="GREEN2" class="partybar"></div>
+	<div id="GREEN1" class="partybar"></div>
+	<div id="SWING" class="partybar"></div>
+	<div id="LIB1" class="partybar"></div>
+	<div id="LIB2" class="partybar"></div>
+	<div id="LIB3" class="partybar"></div>
+	<div id="GOP1" class="partybar"></div>
+	<div id="GOP2" class="partybar"></div>
+	<div id="GOP3" class="partybar"></div>
+	<div id="GOP4" class="partybar"></div>
 </div>
 </div>
+
+<div class="scoreboard_wrapper">
+<div class="scoretext_wrapper">
+<div class="scoretext lefttext" id="demgain"></div>
+</div>
+<div class="scoretext_wrapper">
+<div class="scoretext centertext" id="veep">VP</div>
+</div>
+<div class="scoretext_wrapper">
+<div class="scoretext righttext" id="gopgain"></div>
+</div>
+
+<div class="scorebar">
+	<div class="caucusbar DEM3-text" id="demcaucus"></div>
+	<div class="caucusbar GOP3-text" id="gopcaucus"></div>
+</div>
+</div>
+
 <div id="svgContainer"></div>
-<button type="button" id="reset">Reset</button>
-<p class="lowernote">Left-click = DEM | Right-click = GOP | Shift-click for 3rd parties</p>
+<div id="optPanel">
+<button type="button" id="reset_btn">Reset</button>
+<button type="button" id="2012_btn">2012 Results</button>
+<button type="button" id="alabama_btn">Toggle Alabama</button>
+</div>
+<p class="lowernote">Left-click = DEM. Right-click = GOP. Shift-click for 3rd parties.</p>
 <p class="attribution">App by Joseph F. Donahue - <a href="mailto:josephfdonahue@gmail.com">josephfdonahue@gmail.com</a></p>
 </div>
 </body>

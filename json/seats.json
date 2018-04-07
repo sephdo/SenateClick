@@ -1,14 +1,4 @@
 {
-    "AL-II": {
-        "state": "Alabama",
-        "class": 2,
-        "party": "SWING",
-        "axis": "demgop",
-        "incumbent": {
-            "name": "Strange",
-            "party": "R"
-        }
-    },
     "AZ-I": {
         "state": "Arizona",
         "class": 1,
@@ -16,7 +6,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Flake",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP1"
         }
     },
     "CA-I": {
@@ -26,7 +17,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Feinstein",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "CT-I": {
@@ -36,7 +28,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Murphy",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "DE-I": {
@@ -46,7 +39,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Carper",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "FL-I": {
@@ -56,7 +50,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Nelson",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "HI-I": {
@@ -66,7 +61,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Hirono",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "IN-I": {
@@ -76,7 +72,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Donnelly",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM2"
         }
     },
     "ME-I": {
@@ -86,7 +83,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "King",
-            "party": "I"
+            "party": "I",
+            "2012 result": "DEM3"
         }
     },
     "MD-I": {
@@ -96,7 +94,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Cardin",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "MA-I": {
@@ -106,7 +105,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Warren",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM2"
         }
     },
     "MI-I": {
@@ -116,7 +116,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Stabenow",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "MN-I": {
@@ -126,7 +127,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Klobuchar",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "MN-II": {
@@ -136,7 +138,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Smith",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "MS-I": {
@@ -146,7 +149,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Wicker",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP3"
         }
     },
     "MS-II": {
@@ -156,7 +160,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Hyde-Smith",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP3"
         }
     },
     "MO-I": {
@@ -166,7 +171,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "McCaskill",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "MT-I": {
@@ -176,7 +182,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Tester",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM1"
         }
     },
     "NE-I": {
@@ -186,7 +193,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Fischer",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP3"
         }
     },
     "NV-I": {
@@ -196,7 +204,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Heller",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP1"
         }
     },
     "NJ-I": {
@@ -206,7 +215,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Menendez",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "NM-I": {
@@ -216,7 +226,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Heinrich",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM2"
         }
     },
     "NY-I": {
@@ -226,7 +237,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Gillibrand",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "ND-I": {
@@ -236,7 +248,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Heitkamp",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM1"
         }
     },
     "OH-I": {
@@ -246,7 +259,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Brown",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM2"
         }
     },
     "PA-I": {
@@ -256,7 +270,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Casey",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM2"
         }
     },
     "RI-I": {
@@ -266,7 +281,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Whitehouse",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "TN-I": {
@@ -276,7 +292,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Corker",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP3"
         }
     },
     "TX-I": {
@@ -286,7 +303,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Cruz",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP3"
         }
     },
     "UT-I": {
@@ -296,7 +314,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Hatch",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP3"
         }
     },
     "VT-I": {
@@ -306,7 +325,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Sanders",
-            "party": "I"
+            "party": "I",
+            "2012 result": "DEM3"
         }
     },
     "VA-I": {
@@ -316,7 +336,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Kaine",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM2"
         }
     },
     "WA-I": {
@@ -326,7 +347,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Cantwell",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "WV-I": {
@@ -336,7 +358,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Manchin",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM3"
         }
     },
     "WI-I": {
@@ -346,7 +369,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Baldwin",
-            "party": "D"
+            "party": "D",
+            "2012 result": "DEM2"
         }
     },
     "WY-I": {
@@ -356,7 +380,8 @@
         "axis": "demgop",
         "incumbent": {
             "name": "Barrasso",
-            "party": "R"
+            "party": "R",
+            "2012 result": "GOP3"
         }
     }
 }

@@ -1,0 +1,75 @@
+.gray_border {
+	stroke:#4a4a4a;
+	
+}
+
+.gray_border {
+	stroke-width:1.2;
+	stroke-linejoin:round;
+	stroke-miterlimit:4;
+	stroke-dasharray:none;
+	stroke-opacity:1
+}
+.dash_border {
+	stroke-width:1.20099996;
+	stroke-dasharray:1.20099996, 1.20099996000000010;
+}
+.state_abbr {
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	font-stretch:normal;
+	font-size:15.51966572px;
+	font-family:Roboto;
+	-inkscape-font-specification:'Roboto Bold'
+}
+.NOELECTION {
+	fill:#cccccc;
+	
+}
+
+.DEM4{
+	fill:#0091EA
+}
+.DEM3{
+	fill:#03A9F4
+}
+.DEM2{
+	fill:#4FC3F7
+}
+.DEM1{
+	fill:#B3E5FC
+}
+.GREEN3{
+	fill:#00E676
+}
+.GREEN2{
+	fill:#69F0AE
+}
+.GREEN1{
+	fill:#B9F6CA
+}
+
+.SWING{
+	fill:#ffffff
+}
+
+.LIB1{
+	fill:#FFE57F
+}
+.LIB2{
+	fill:#FFD740
+}
+.LIB3{
+	fill:#FFC400
+}
+
+.GOP1{
+	fill:#ffa399
+}
+.GOP2{
+	fill:#ff7359
+}
+.GOP3{
+	fill:#ff3d19
+}
