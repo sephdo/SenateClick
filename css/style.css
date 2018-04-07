@@ -14,8 +14,10 @@ html, body{
 	text-align:center;
 	
 }
+
 #map{
 	width:100%;
+
 }
 #optPanel, button, .lowernote, .attribution, .scoretext, #veep, svg text, .caucusbar{
 	-webkit-user-select: none;
@@ -26,7 +28,6 @@ html, body{
 	width:100%;
 	font-family: 'Roboto', sans-serif;
 	font-weight:bold;
-	
 	font-size:1.6em;
 	
 }
