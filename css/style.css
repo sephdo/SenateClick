@@ -17,6 +17,7 @@ html, body{
 
 #map{
 	width:100%;
+	max-height:70vh;
 
 }
 #optPanel, button, .lowernote, .attribution, .scoretext, #veep, svg text, .caucusbar{
