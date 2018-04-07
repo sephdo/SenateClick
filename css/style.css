@@ -17,7 +17,7 @@ html, body{
 #map{
 	width:100%;
 }
-#optPanel, button, .lowernote, .attribution, .scoretext, #veep, svg text{
+#optPanel, button, .lowernote, .attribution, .scoretext, #veep, svg text, .caucusbar{
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-khtml-user-select: none;
