@@ -1,6 +1,0 @@
-{
-    "demgop": ["DEM3","DEM2","DEM1","SWING","GOP1","GOP2","GOP3"],
-	"greenlib": ["GREEN3","GREEN2","GREEN1","SWING","LIB1","LIB2","LIB3"],
-	"all": ["DEM3","DEM2","DEM1","SWING","GOP1","GOP2","GOP3","GREEN3","GREEN2","GREEN1","LIB1","LIB2","LIB3"],
-	"partisan": ["DEM3","DEM2","DEM1","GOP1","GOP2","GOP3","GREEN3","GREEN2","GREEN1","LIB1","LIB2","LIB3"]
-}

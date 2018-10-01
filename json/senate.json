@@ -1,0 +1,802 @@
+{
+    "AK-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Sullivan",
+        "party": "R",
+        "seat": "AK-II",
+        "state": "AK"
+    },
+    "AK-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Murkowski",
+        "party": "R",
+        "seat": "AK-III",
+        "state": "AK"
+    },
+    "AL-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Strange",
+        "party": "R",
+        "seat": "AL-II",
+        "state": "AL"
+    },
+    "AL-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Shelby",
+        "party": "R",
+        "seat": "AL-III",
+        "state": "AL"
+    },
+    "AR-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Cotton",
+        "party": "R",
+        "seat": "AR-II",
+        "state": "AR"
+    },
+    "AR-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Boozman",
+        "party": "R",
+        "seat": "AR-III",
+        "state": "AR"
+    },
+    "AZ-I": {
+        "caucus": "R",
+        "class": 1,
+        "name": "Flake",
+        "party": "R",
+        "seat": "AZ-I",
+        "state": "AZ"
+    },
+    "AZ-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Kyl",
+        "party": "R",
+        "seat": "AZ-III",
+        "state": "AZ"
+    },
+    "CA-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Feinstein",
+        "party": "D",
+        "seat": "CA-I",
+        "state": "CA"
+    },
+    "CA-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Harris",
+        "party": "D",
+        "seat": "CA-III",
+        "state": "CA"
+    },
+    "CO-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Gardner",
+        "party": "R",
+        "seat": "CO-II",
+        "state": "CO"
+    },
+    "CO-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Bennet",
+        "party": "D",
+        "seat": "CO-III",
+        "state": "CO"
+    },
+    "CT-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Murphy",
+        "party": "D",
+        "seat": "CT-I",
+        "state": "CT"
+    },
+    "CT-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Blumenthal",
+        "party": "D",
+        "seat": "CT-III",
+        "state": "CT"
+    },
+    "DE-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Carper",
+        "party": "D",
+        "seat": "DE-I",
+        "state": "DE"
+    },
+    "DE-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Coons",
+        "party": "D",
+        "seat": "DE-II",
+        "state": "DE"
+    },
+    "FL-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Nelson",
+        "party": "D",
+        "seat": "FL-I",
+        "state": "FL"
+    },
+    "FL-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Rubio",
+        "party": "R",
+        "seat": "FL-III",
+        "state": "FL"
+    },
+    "GA-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Perdue",
+        "party": "R",
+        "seat": "GA-II",
+        "state": "GA"
+    },
+    "GA-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Isakson",
+        "party": "R",
+        "seat": "GA-III",
+        "state": "GA"
+    },
+    "HI-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Hirono",
+        "party": "D",
+        "seat": "HI-I",
+        "state": "HI"
+    },
+    "HI-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Schatz",
+        "party": "D",
+        "seat": "HI-III",
+        "state": "HI"
+    },
+    "IA-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Ernst",
+        "party": "R",
+        "seat": "IA-II",
+        "state": "IA"
+    },
+    "IA-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Grassley",
+        "party": "R",
+        "seat": "IA-III",
+        "state": "IA"
+    },
+    "ID-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Risch",
+        "party": "R",
+        "seat": "ID-II",
+        "state": "ID"
+    },
+    "ID-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Crapo",
+        "party": "R",
+        "seat": "ID-III",
+        "state": "ID"
+    },
+    "IL-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Durbin",
+        "party": "D",
+        "seat": "IL-II",
+        "state": "IL"
+    },
+    "IL-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Duckworth",
+        "party": "D",
+        "seat": "IL-III",
+        "state": "IL"
+    },
+    "IN-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Donnelly",
+        "party": "D",
+        "seat": "IN-I",
+        "state": "IN"
+    },
+    "IN-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Young",
+        "party": "R",
+        "seat": "IN-III",
+        "state": "IN"
+    },
+    "KS-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Roberts",
+        "party": "R",
+        "seat": "KS-II",
+        "state": "KS"
+    },
+    "KS-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Moran",
+        "party": "R",
+        "seat": "KS-III",
+        "state": "KS"
+    },
+    "KY-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "McConnell",
+        "party": "R",
+        "seat": "KY-II",
+        "state": "KY"
+    },
+    "KY-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Paul",
+        "party": "R",
+        "seat": "KY-III",
+        "state": "KY"
+    },
+    "LA-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Cassidy",
+        "party": "R",
+        "seat": "LA-II",
+        "state": "LA"
+    },
+    "LA-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Kennedy",
+        "party": "R",
+        "seat": "LA-III",
+        "state": "LA"
+    },
+    "MA-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Warren",
+        "party": "D",
+        "seat": "MA-I",
+        "state": "MA"
+    },
+    "MA-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Markey",
+        "party": "D",
+        "seat": "MA-II",
+        "state": "MA"
+    },
+    "MD-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Cardin",
+        "party": "D",
+        "seat": "MD-I",
+        "state": "MD"
+    },
+    "MD-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Van Hollen",
+        "party": "D",
+        "seat": "MD-III",
+        "state": "MD"
+    },
+    "ME-I": {
+        "caucus": "I-D",
+        "class": 1,
+        "name": "King",
+        "party": "I-D",
+        "seat": "ME-I",
+        "state": "ME"
+    },
+    "ME-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Collins",
+        "party": "R",
+        "seat": "ME-II",
+        "state": "ME"
+    },
+    "MI-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Stabenow",
+        "party": "D",
+        "seat": "MI-I",
+        "state": "MI"
+    },
+    "MI-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Peters",
+        "party": "D",
+        "seat": "MI-II",
+        "state": "MI"
+    },
+    "MN-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Klobuchar",
+        "party": "D",
+        "seat": "MN-I",
+        "state": "MN"
+    },
+    "MN-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Smith",
+        "party": "D",
+        "seat": "MN-II",
+        "state": "MN"
+    },
+    "MO-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "McCaskill",
+        "party": "D",
+        "seat": "MO-I",
+        "state": "MO"
+    },
+    "MO-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Blunt",
+        "party": "R",
+        "seat": "MO-III",
+        "state": "MO"
+    },
+    "MS-I": {
+        "caucus": "R",
+        "class": 1,
+        "name": "Wicker",
+        "party": "R",
+        "seat": "MS-I",
+        "state": "MS"
+    },
+    "MS-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Hyde-Smith",
+        "party": "R",
+        "seat": "MS-II",
+        "state": "MS"
+    },
+    "MT-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Tester",
+        "party": "D",
+        "seat": "MT-I",
+        "state": "MT"
+    },
+    "MT-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Daines",
+        "party": "R",
+        "seat": "MT-II",
+        "state": "MT"
+    },
+    "NC-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Tillis",
+        "party": "R",
+        "seat": "NC-II",
+        "state": "NC"
+    },
+    "NC-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Burr",
+        "party": "R",
+        "seat": "NC-III",
+        "state": "NC"
+    },
+    "ND-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Heitkamp",
+        "party": "D",
+        "seat": "ND-I",
+        "state": "ND"
+    },
+    "ND-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Hoeven",
+        "party": "R",
+        "seat": "ND-III",
+        "state": "ND"
+    },
+    "NE-I": {
+        "caucus": "R",
+        "class": 1,
+        "name": "Fischer",
+        "party": "R",
+        "seat": "NE-I",
+        "state": "NE"
+    },
+    "NE-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Sasse",
+        "party": "R",
+        "seat": "NE-II",
+        "state": "NE"
+    },
+    "NH-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Shaheen",
+        "party": "D",
+        "seat": "NH-II",
+        "state": "NH"
+    },
+    "NH-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Hassan",
+        "party": "D",
+        "seat": "NH-III",
+        "state": "NH"
+    },
+    "NJ-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Menendez",
+        "party": "D",
+        "seat": "NJ-I",
+        "state": "NJ"
+    },
+    "NJ-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Booker",
+        "party": "D",
+        "seat": "NJ-II",
+        "state": "NJ"
+    },
+    "NM-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Heinrich",
+        "party": "D",
+        "seat": "NM-I",
+        "state": "NM"
+    },
+    "NM-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Udall",
+        "party": "D",
+        "seat": "NM-II",
+        "state": "NM"
+    },
+    "NV-I": {
+        "caucus": "R",
+        "class": 1,
+        "name": "Heller",
+        "party": "R",
+        "seat": "NV-I",
+        "state": "NV"
+    },
+    "NV-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Cortez Masto",
+        "party": "D",
+        "seat": "NV-III",
+        "state": "NV"
+    },
+    "NY-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Gillibrand",
+        "party": "D",
+        "seat": "NY-I",
+        "state": "NY"
+    },
+    "NY-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Schumer",
+        "party": "D",
+        "seat": "NY-III",
+        "state": "NY"
+    },
+    "OH-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Brown",
+        "party": "D",
+        "seat": "OH-I",
+        "state": "OH"
+    },
+    "OH-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Portman",
+        "party": "R",
+        "seat": "OH-III",
+        "state": "OH"
+    },
+    "OK-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Inhofe",
+        "party": "R",
+        "seat": "OK-II",
+        "state": "OK"
+    },
+    "OK-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Lankford",
+        "party": "R",
+        "seat": "OK-III",
+        "state": "OK"
+    },
+    "OR-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Merkley",
+        "party": "D",
+        "seat": "OR-II",
+        "state": "OR"
+    },
+    "OR-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Wyden",
+        "party": "D",
+        "seat": "OR-III",
+        "state": "OR"
+    },
+    "PA-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Casey",
+        "party": "D",
+        "seat": "PA-I",
+        "state": "PA"
+    },
+    "PA-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Toomey",
+        "party": "R",
+        "seat": "PA-III",
+        "state": "PA"
+    },
+    "RI-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Whitehouse",
+        "party": "D",
+        "seat": "RI-I",
+        "state": "RI"
+    },
+    "RI-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Reed",
+        "party": "D",
+        "seat": "RI-II",
+        "state": "RI"
+    },
+    "SC-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Graham",
+        "party": "R",
+        "seat": "SC-II",
+        "state": "SC"
+    },
+    "SC-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Scott",
+        "party": "R",
+        "seat": "SC-III",
+        "state": "SC"
+    },
+    "SD-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Rounds",
+        "party": "R",
+        "seat": "SD-II",
+        "state": "SD"
+    },
+    "SD-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Thune",
+        "party": "R",
+        "seat": "SD-III",
+        "state": "SD"
+    },
+    "TN-I": {
+        "caucus": "R",
+        "class": 1,
+        "name": "Corker",
+        "party": "R",
+        "seat": "TN-I",
+        "state": "TN"
+    },
+    "TN-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Alexander",
+        "party": "R",
+        "seat": "TN-II",
+        "state": "TN"
+    },
+    "TX-I": {
+        "caucus": "R",
+        "class": 1,
+        "name": "Cruz",
+        "party": "R",
+        "seat": "TX-I",
+        "state": "TX"
+    },
+    "TX-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Cornyn",
+        "party": "R",
+        "seat": "TX-II",
+        "state": "TX"
+    },
+    "UT-I": {
+        "caucus": "R",
+        "class": 1,
+        "name": "Hatch",
+        "party": "R",
+        "seat": "UT-I",
+        "state": "UT"
+    },
+    "UT-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Lee",
+        "party": "R",
+        "seat": "UT-III",
+        "state": "UT"
+    },
+    "VA-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Kaine",
+        "party": "D",
+        "seat": "VA-I",
+        "state": "VA"
+    },
+    "VA-II": {
+        "caucus": "D",
+        "class": 2,
+        "name": "Warner",
+        "party": "D",
+        "seat": "VA-II",
+        "state": "VA"
+    },
+    "VT-I": {
+        "caucus": "I-D",
+        "class": 1,
+        "name": "Sanders",
+        "party": "I-D",
+        "seat": "VT-I",
+        "state": "VT"
+    },
+    "VT-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Leahy",
+        "party": "D",
+        "seat": "VT-III",
+        "state": "VT"
+    },
+    "WA-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Cantwell",
+        "party": "D",
+        "seat": "WA-I",
+        "state": "WA"
+    },
+    "WA-III": {
+        "caucus": "D",
+        "class": 3,
+        "name": "Murray",
+        "party": "D",
+        "seat": "WA-III",
+        "state": "WA"
+    },
+    "WI-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Baldwin",
+        "party": "D",
+        "seat": "WI-I",
+        "state": "WI"
+    },
+    "WI-III": {
+        "caucus": "R",
+        "class": 3,
+        "name": "Johnson",
+        "party": "R",
+        "seat": "WI-III",
+        "state": "WI"
+    },
+    "WV-I": {
+        "caucus": "D",
+        "class": 1,
+        "name": "Manchin",
+        "party": "D",
+        "seat": "WV-I",
+        "state": "WV"
+    },
+    "WV-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Capito",
+        "party": "R",
+        "seat": "WV-II",
+        "state": "WV"
+    },
+    "WY-I": {
+        "caucus": "R",
+        "class": 1,
+        "name": "Barrasso",
+        "party": "R",
+        "seat": "WY-I",
+        "state": "WY"
+    },
+    "WY-II": {
+        "caucus": "R",
+        "class": 2,
+        "name": "Enzi",
+        "party": "R",
+        "seat": "WY-II",
+        "state": "WY"
+    }
+}

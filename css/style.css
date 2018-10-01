@@ -25,6 +25,12 @@ html, body{
 	-moz-user-select: none;
 	-khtml-user-select: none;
 	-ms-user-select: none;}
+#optPanel {
+	display:flex; justify-content:center; padding:5px;
+}
+#optPanel > button {
+	margin:5px;
+}
 .lowernote{
 	width:100%;
 	font-family: 'Roboto', sans-serif;
@@ -47,72 +53,98 @@ html, body{
 	margin:auto;
 }
 
-#DEM4{
-	background-color:#0091EA
+.DEM4, [axis="demgop"][index="-1"]{
+	background-color:#0091EA;
+	fill:#0091EA;
 }
-#DEM3{
-	background-color:#03A9F4
+.DEM3, [axis="demgop"][index="0"]{
+	background-color:#03A9F4;
+	fill:#03A9F4;
+}
+.DEM2, [axis="demgop"][index="1"]{
+	background-color:#4FC3F7;
+	fill:#4FC3F7;
+}
+.DEM1, [axis="demgop"][index="2"]{
+	background-color:#B3E5FC;
+	fill:#B3E5FC;
+}
+.GOP4, [axis="demgop"][index="7"]{
+	background-color:#D32F2F;
+	fill:#D32F2F;
+}
+.GOP3, [axis="demgop"][index="6"]{
+	background-color:#ff3d19;
+	fill:#ff3d19;
+}
+.GOP2, [axis="demgop"][index="5"]{
+	background-color:#ff7359;
+	fill:#ff7359;
+}
+.GOP1, [axis="demgop"][index="4"]{
+	background-color:#ffa399;
+	fill:#ffa399;
+}
+.GREEN4, [axis="greenlib"][index="-1"]{
+	
+}
+.GREEN3, [axis="greenlib"][index="0"]{
+	background-color:#00E676;
+	fill:#00E676;
+}
+.GREEN2, [axis="greenlib"][index="1"]{
+	background-color:#69F0AE;
+	fill:#69F0AE;
+}
+.GREEN1, [axis="greenlib"][index="2"]{
+	background-color:#B9F6CA;
+	fill:#B9F6CA;
+}
+.LIB4, [axis="greenlib"][index="7"]{
+	background-color:#D32F2F;
+	fill:#D32F2F;
+}
+.LIB3, [axis="greenlib"][index="6"]{
+	background-color:#FFC400;
+	fill:#FFC400;
+}
+.LIB2, [axis="greenlib"][index="5"]{
+	background-color:#FFD740;
+	fill:#FFD740;
+}
+.LIB1, [axis="greenlib"][index="4"]{
+	background-color:#FFE57F;
+	fill:#FFE57F;
 }
 .DEM3-text{
 	color:#03A9F4
 }
-#DEM2{
-	background-color:#4FC3F7
-}
-#DEM1{
-	background-color:#B3E5FC
-}
-#GREEN3{
-	background-color:#00E676
-}
-#GREEN2{
-	background-color:#69F0AE
-}
-#GREEN1{
-	background-color:#B9F6CA
-}
-
-#SWING{
-	background-color:#cccccc
-}
-
-#LIB1{
-	background-color:#FFE57F
-}
-#LIB2{
-	background-color:#FFD740
-}
-#LIB3{
-	background-color:#FFC400
-}
-
-#GOP1{
-	background-color:#ffa399
-}
-#GOP2{
-	background-color:#ff7359
-}
-#GOP3{
-	background-color:#ff3d19
+.DEM4-text{
+	color:#0091EA
 }
 .GOP3-text{
 	color:#ff3d19
 }
-#GOP4{
-	background-color:#D32F2F
+.GOP4-text{
+	color:#D32F2F
 }
 
 .winmarker{
 	background-color:#000000;
-	width:calc(100% / 538);
+	width:2px;
 	height:5vh;
 	right:50%;
 	position:absolute;
 	z-index:100;
 	margin:auto;
 }
+#scoreboard_wrapper{
+	border-style:solid;
+	border-width:2px;
+}
 .scoreboard_wrapper{
 	height:5%;
+	
 }
 .partybar {
 	width:calc(100% / 7);

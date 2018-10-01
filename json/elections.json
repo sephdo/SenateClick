@@ -1,0 +1,2250 @@
+{
+    "AL-II": {
+        "class": 2,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Jones",
+                    "party": "D",
+                    "votes": 673896
+                },
+                {
+                    "caucus": "R",
+                    "name": "Moore",
+                    "party": "R",
+                    "votes": 651972
+                }
+            ],
+            "special": "Mid-cycle",
+            "total_votes": 1348720,
+            "winner": {
+                "assumed_office": "2018-01-03T00:00:00",
+                "birthdate": "1954-05-04T00:00:00",
+                "caucus": "D",
+                "first_elected": 2017,
+                "name": "Jones",
+                "party": "D",
+                "running": null,
+                "term": 1
+            },
+            "year": 2017
+        },
+        "incumbent": {
+            "assumed_office": "2017-02-09T00:00:00",
+            "birthdate": "1953-03-01T00:00:00",
+            "caucus": "R",
+            "first_elected": null,
+            "name": "Strange",
+            "party": "R",
+            "running": true,
+            "term": 1
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Sessions",
+                    "party": "R",
+                    "votes": 795606
+                }
+            ],
+            "total_votes": 818090,
+            "year": 2014
+        },
+        "state": "AL"
+    },
+    "AZ-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Sinema",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "McSally",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1962-12-31T00:00:00",
+            "caucus": "R",
+            "first_elected": 2012,
+            "name": "Flake",
+            "party": "R",
+            "running": false,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Flake",
+                    "party": "R",
+                    "votes": 1104457
+                },
+                {
+                    "caucus": "D",
+                    "name": "Carmona",
+                    "party": "D",
+                    "votes": 1036542
+                },
+                {
+                    "caucus": "L",
+                    "name": "Victor",
+                    "party": "L",
+                    "votes": 102109
+                }
+            ],
+            "total_votes": 2245609,
+            "year": 2012
+        },
+        "state": "AZ"
+    },
+    "CA-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Feinstein",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "D",
+                    "name": "de Le\u00f3n",
+                    "party": "D",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "1992-11-10T00:00:00",
+            "birthdate": "1933-06-22T00:00:00",
+            "caucus": "D",
+            "first_elected": 1992,
+            "name": "Feinstein",
+            "party": "D",
+            "running": true,
+            "term": 5
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Feinstein",
+                    "party": "D",
+                    "votes": 7864624
+                },
+                {
+                    "caucus": "R",
+                    "name": "Emken",
+                    "party": "R",
+                    "votes": 4713887
+                }
+            ],
+            "total_votes": 12578511,
+            "year": 2012
+        },
+        "state": "CA"
+    },
+    "CT-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Murphy",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Corey",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1973-08-03T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "Murphy",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Murphy",
+                    "party": "D",
+                    "votes": 828761
+                },
+                {
+                    "caucus": "R",
+                    "name": "McMahon",
+                    "party": "R",
+                    "votes": 651089
+                },
+                {
+                    "caucus": "L",
+                    "name": "Passarelli",
+                    "party": "L",
+                    "votes": 25045
+                }
+            ],
+            "total_votes": 1504895,
+            "year": 2012
+        },
+        "state": "CT"
+    },
+    "DE-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Carper",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Arlett",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2001-01-03T00:00:00",
+            "birthdate": "1947-01-23T00:00:00",
+            "caucus": "D",
+            "first_elected": 1996,
+            "name": "Carper",
+            "party": "D",
+            "running": true,
+            "term": 4
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Carper",
+                    "party": "D",
+                    "votes": 265374
+                },
+                {
+                    "caucus": "R",
+                    "name": "Wade",
+                    "party": "R",
+                    "votes": 115694
+                },
+                {
+                    "caucus": "Delaware Independent",
+                    "name": "Pires",
+                    "party": "Delaware Independent",
+                    "votes": 15300
+                },
+                {
+                    "caucus": "G",
+                    "name": "Groff",
+                    "party": "G",
+                    "votes": 3191
+                }
+            ],
+            "total_votes": 399559,
+            "year": 2012
+        },
+        "state": "DE"
+    },
+    "FL-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Nelson",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Scott",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2001-01-03T00:00:00",
+            "birthdate": "1942-09-29T00:00:00",
+            "caucus": "D",
+            "first_elected": 1996,
+            "name": "Nelson",
+            "party": "D",
+            "running": true,
+            "term": 4
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Nelson",
+                    "party": "D",
+                    "votes": 4523451
+                },
+                {
+                    "caucus": "R",
+                    "name": "Mack",
+                    "party": "R",
+                    "votes": 3458267
+                },
+                {
+                    "caucus": null,
+                    "name": "Gaylor",
+                    "party": null,
+                    "votes": 126079
+                },
+                {
+                    "caucus": null,
+                    "name": "Borgia",
+                    "party": null,
+                    "votes": 82069
+                }
+            ],
+            "total_votes": 8189946,
+            "year": 2012
+        },
+        "state": "FL"
+    },
+    "HI-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Hirono",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Curtis",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1947-11-03T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "Hirono",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Hirono",
+                    "party": "D",
+                    "votes": 269489
+                },
+                {
+                    "caucus": "R",
+                    "name": "Lingle",
+                    "party": "R",
+                    "votes": 160994
+                }
+            ],
+            "total_votes": 430483,
+            "year": 2012
+        },
+        "state": "HI"
+    },
+    "IN-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Donnelly",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Braun",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1955-09-29T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "Donnelly",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Donnelly",
+                    "party": "D",
+                    "votes": 1281181
+                },
+                {
+                    "caucus": "R",
+                    "name": "Mourdock",
+                    "party": "R",
+                    "votes": 1133621
+                },
+                {
+                    "caucus": "L",
+                    "name": "Horning",
+                    "party": "L",
+                    "votes": 145282
+                }
+            ],
+            "total_votes": 2560102,
+            "year": 2012
+        },
+        "state": "IN"
+    },
+    "MA-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Warren",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "I",
+                    "name": "Ayyadurai",
+                    "party": "I",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Diehl",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1949-06-22T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "Warren",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Warren",
+                    "party": "D",
+                    "votes": 1696346
+                },
+                {
+                    "caucus": "R",
+                    "name": "Brown",
+                    "party": "R",
+                    "votes": 1458048
+                }
+            ],
+            "total_votes": 3156553,
+            "year": 2012
+        },
+        "state": "MA"
+    },
+    "MD-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Cardin",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Campbell",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1943-10-05T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "Cardin",
+            "party": "D",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Cardin",
+                    "party": "D",
+                    "votes": 1402092
+                },
+                {
+                    "caucus": "R",
+                    "name": "Bongino",
+                    "party": "R",
+                    "votes": 674649
+                },
+                {
+                    "caucus": null,
+                    "name": "Sobhani",
+                    "party": null,
+                    "votes": 420554
+                },
+                {
+                    "caucus": "L",
+                    "name": "Ahmad",
+                    "party": "L",
+                    "votes": 30672
+                }
+            ],
+            "total_votes": 2530550,
+            "year": 2012
+        },
+        "state": "MD"
+    },
+    "ME-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "King",
+                    "party": "I",
+                    "votes": null
+                },
+                {
+                    "caucus": "D",
+                    "name": "Ringelstein",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Brakey",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1944-03-31T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "King",
+            "party": "I",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "King",
+                    "party": "I",
+                    "votes": 368724
+                },
+                {
+                    "caucus": "R",
+                    "name": "Summers",
+                    "party": "R",
+                    "votes": 214114
+                },
+                {
+                    "caucus": "D",
+                    "name": "Dill",
+                    "party": "D",
+                    "votes": 91635
+                },
+                {
+                    "caucus": null,
+                    "name": "Woods",
+                    "party": null,
+                    "votes": 10321
+                },
+                {
+                    "caucus": null,
+                    "name": "Dalton",
+                    "party": null,
+                    "votes": 6450
+                },
+                {
+                    "caucus": "L",
+                    "name": "Dodge",
+                    "party": "L",
+                    "votes": 5543
+                }
+            ],
+            "total_votes": 696787,
+            "year": 2012
+        },
+        "state": "ME"
+    },
+    "MI-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Stabenow",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "James",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2001-01-03T00:00:00",
+            "birthdate": "1950-04-29T00:00:00",
+            "caucus": "D",
+            "first_elected": 1996,
+            "name": "Stabenow",
+            "party": "D",
+            "running": true,
+            "term": 4
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Stabenow",
+                    "party": "D",
+                    "votes": 2735826
+                },
+                {
+                    "caucus": "R",
+                    "name": "Hoekstra",
+                    "party": "R",
+                    "votes": 1767386
+                },
+                {
+                    "caucus": "L",
+                    "name": "Boman",
+                    "party": "L",
+                    "votes": 84480
+                },
+                {
+                    "caucus": "G",
+                    "name": "Mikkelson",
+                    "party": "G",
+                    "votes": 27890
+                },
+                {
+                    "caucus": "Constitution",
+                    "name": "Matkin",
+                    "party": "Constitution",
+                    "votes": 26038
+                },
+                {
+                    "caucus": "Natural Law",
+                    "name": "Litle",
+                    "party": "Natural Law",
+                    "votes": 11229
+                }
+            ],
+            "total_votes": 4652918,
+            "year": 2012
+        },
+        "state": "MI"
+    },
+    "MN-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Klobuchar",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Newberger",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1960-05-25T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "Klobuchar",
+            "party": "D",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Klobuchar",
+                    "party": "D",
+                    "votes": 1854595
+                },
+                {
+                    "caucus": "R",
+                    "name": "Bills",
+                    "party": "R",
+                    "votes": 867874
+                },
+                {
+                    "caucus": "Independence",
+                    "name": "Williams",
+                    "party": "Independence",
+                    "votes": 73559
+                },
+                {
+                    "caucus": "Grassroots",
+                    "name": "Davis",
+                    "party": "Grassroots",
+                    "votes": 30465
+                },
+                {
+                    "caucus": "Open Progressive",
+                    "name": "Cavlan",
+                    "party": "Open Progressive",
+                    "votes": 13933
+                }
+            ],
+            "total_votes": 983437,
+            "year": 2012
+        },
+        "state": "MN"
+    },
+    "MN-II": {
+        "class": 2,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Smith",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Housley",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": "November",
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2018-01-03T00:00:00",
+            "birthdate": "1951-05-21T00:00:00",
+            "caucus": "D",
+            "first_elected": null,
+            "name": "Smith",
+            "party": "D",
+            "running": true,
+            "term": 1
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Franken",
+                    "party": "D",
+                    "votes": 1053205
+                },
+                {
+                    "caucus": "R",
+                    "name": "McFadden",
+                    "party": "R",
+                    "votes": 850227
+                },
+                {
+                    "caucus": "Independence",
+                    "name": "Carlson",
+                    "party": "Independence",
+                    "votes": 47530
+                },
+                {
+                    "caucus": "L",
+                    "name": "Johnson",
+                    "party": "L",
+                    "votes": 29685
+                }
+            ],
+            "total_votes": 1981528,
+            "year": 2014
+        },
+        "state": "MN"
+    },
+    "MO-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "McCaskill",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Hawley",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1953-07-24T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "McCaskill",
+            "party": "D",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "McCaskill",
+                    "party": "D",
+                    "votes": 1484683
+                },
+                {
+                    "caucus": "R",
+                    "name": "Akin",
+                    "party": "R",
+                    "votes": 1063698
+                },
+                {
+                    "caucus": "L",
+                    "name": "Dine",
+                    "party": "L",
+                    "votes": 164991
+                }
+            ],
+            "total_votes": 2713623,
+            "year": 2012
+        },
+        "state": "MO"
+    },
+    "MS-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Wicker",
+                    "party": "R",
+                    "votes": null
+                },
+                {
+                    "caucus": "D",
+                    "name": "Baria",
+                    "party": "D",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-12-31T00:00:00",
+            "birthdate": "1951-07-05T00:00:00",
+            "caucus": "R",
+            "first_elected": 2008,
+            "name": "Wicker",
+            "party": "R",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Wicker",
+                    "party": "R",
+                    "votes": 709626
+                },
+                {
+                    "caucus": "D",
+                    "name": "Gore",
+                    "party": "D",
+                    "votes": 503467
+                },
+                {
+                    "caucus": "Constitution",
+                    "name": "Cramer",
+                    "party": "Constitution",
+                    "votes": 15281
+                },
+                {
+                    "caucus": "Reform",
+                    "name": "O'Hara",
+                    "party": "Reform",
+                    "votes": 13194
+                }
+            ],
+            "total_votes": 1241568,
+            "year": 2012
+        },
+        "state": "MS"
+    },
+    "MS-II": {
+        "class": 2,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Hyde-Smith",
+                    "party": "R",
+                    "votes": null
+                },
+                {
+                    "caucus": "D",
+                    "name": "Espy",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "McDaniel",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": "November",
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2018-04-09T00:00:00",
+            "birthdate": "1959-05-10T00:00:00",
+            "caucus": "R",
+            "first_elected": null,
+            "name": "Hyde-Smith",
+            "party": "R",
+            "running": true,
+            "term": 1
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Cochran",
+                    "party": "R",
+                    "votes": 378481
+                },
+                {
+                    "caucus": "D",
+                    "name": "Childers",
+                    "party": "D",
+                    "votes": 239439
+                },
+                {
+                    "caucus": "Reform",
+                    "name": "O'Hara",
+                    "party": "Reform",
+                    "votes": 13938
+                }
+            ],
+            "total_votes": 631858,
+            "year": 2014
+        },
+        "state": "MS"
+    },
+    "MT-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Tester",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Rosendale",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1956-08-21T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "Tester",
+            "party": "D",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Tester",
+                    "party": "D",
+                    "votes": 236123
+                },
+                {
+                    "caucus": "R",
+                    "name": "Rehberg",
+                    "party": "R",
+                    "votes": 218051
+                },
+                {
+                    "caucus": "L",
+                    "name": "Cox",
+                    "party": "L",
+                    "votes": 31892
+                }
+            ],
+            "total_votes": 486066,
+            "year": 2012
+        },
+        "state": "MT"
+    },
+    "ND-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Heitkamp",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Cramer",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1955-10-30T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "Heitkamp",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Heitkamp",
+                    "party": "D",
+                    "votes": 161337
+                },
+                {
+                    "caucus": "R",
+                    "name": "Berg",
+                    "party": "R",
+                    "votes": 158401
+                }
+            ],
+            "total_votes": 322509,
+            "year": 2012
+        },
+        "state": "ND"
+    },
+    "NE-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Fischer",
+                    "party": "R",
+                    "votes": null
+                },
+                {
+                    "caucus": "D",
+                    "name": "Raybould",
+                    "party": "D",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1951-03-01T00:00:00",
+            "caucus": "R",
+            "first_elected": 2012,
+            "name": "Fischer",
+            "party": "R",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Fischer",
+                    "party": "R",
+                    "votes": 455593
+                },
+                {
+                    "caucus": "D",
+                    "name": "Kerrey",
+                    "party": "D",
+                    "votes": 332979
+                }
+            ],
+            "total_votes": 788572,
+            "year": 2012
+        },
+        "state": "NE"
+    },
+    "NJ-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Menendez",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Hugin",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2006-01-18T00:00:00",
+            "birthdate": "1954-01-01T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "Menendez",
+            "party": "D",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Menendez",
+                    "party": "D",
+                    "votes": 1987680
+                },
+                {
+                    "caucus": "R",
+                    "name": "Kyrillos",
+                    "party": "R",
+                    "votes": 1329534
+                },
+                {
+                    "caucus": "L",
+                    "name": "Kaplan",
+                    "party": "L",
+                    "votes": 16803
+                },
+                {
+                    "caucus": "G",
+                    "name": "Wolski",
+                    "party": "G",
+                    "votes": 15801
+                },
+                {
+                    "caucus": null,
+                    "name": "Diakos",
+                    "party": null,
+                    "votes": 9359
+                },
+                {
+                    "caucus": null,
+                    "name": "Dranikoff",
+                    "party": null,
+                    "votes": 3834
+                },
+                {
+                    "caucus": null,
+                    "name": "Soni",
+                    "party": null,
+                    "votes": 3593
+                },
+                {
+                    "caucus": null,
+                    "name": "Turkavage",
+                    "party": null,
+                    "votes": 3532
+                },
+                {
+                    "caucus": "Socialist",
+                    "name": "Pason",
+                    "party": "Socialist",
+                    "votes": 2249
+                },
+                {
+                    "caucus": null,
+                    "name": "LaVergne",
+                    "party": null,
+                    "votes": 2198
+                },
+                {
+                    "caucus": null,
+                    "name": "Brooks",
+                    "party": null,
+                    "votes": 2066
+                }
+            ],
+            "total_votes": 3376649,
+            "year": 2012
+        },
+        "state": "NJ"
+    },
+    "NM-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Heinrich",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "L",
+                    "name": "Johnson",
+                    "party": "L",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Rich",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1971-10-17T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "Heinrich",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Heinrich",
+                    "party": "D",
+                    "votes": 395717
+                },
+                {
+                    "caucus": "R",
+                    "name": "Wilson",
+                    "party": "R",
+                    "votes": 351295
+                },
+                {
+                    "caucus": "American Independent",
+                    "name": "Barrie",
+                    "party": "American Independent",
+                    "votes": 27649
+                }
+            ],
+            "total_votes": 775278,
+            "year": 2012
+        },
+        "state": "NM"
+    },
+    "NV-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Heller",
+                    "party": "R",
+                    "votes": null
+                },
+                {
+                    "caucus": "D",
+                    "name": "Rosen",
+                    "party": "D",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2011-05-09T00:00:00",
+            "birthdate": "1960-05-10T00:00:00",
+            "caucus": "R",
+            "first_elected": 2012,
+            "name": "Heller",
+            "party": "R",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Heller",
+                    "party": "R",
+                    "votes": 457656
+                },
+                {
+                    "caucus": "D",
+                    "name": "Berkley",
+                    "party": "D",
+                    "votes": 446080
+                },
+                {
+                    "caucus": "Independent American",
+                    "name": "VanDerBeek",
+                    "party": "Independent American",
+                    "votes": 48792
+                },
+                {
+                    "caucus": null,
+                    "name": "None of These Candidates",
+                    "party": null,
+                    "votes": 44277
+                }
+            ],
+            "total_votes": 997805,
+            "year": 2012
+        },
+        "state": "NV"
+    },
+    "NY-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Gillibrand",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Farley C",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2009-01-26T00:00:00",
+            "birthdate": "1966-12-09T00:00:00",
+            "caucus": "D",
+            "first_elected": 2010,
+            "name": "Gillibrand",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Gillibrand",
+                    "party": "D",
+                    "votes": 4822330
+                },
+                {
+                    "caucus": "R",
+                    "name": "Long",
+                    "party": "R",
+                    "votes": 1758702
+                },
+                {
+                    "caucus": "G",
+                    "name": "Clark",
+                    "party": "G",
+                    "votes": 36547
+                },
+                {
+                    "caucus": "L",
+                    "name": "Edes",
+                    "party": "L",
+                    "votes": 28315
+                },
+                {
+                    "caucus": null,
+                    "name": "Mangelli",
+                    "party": null,
+                    "votes": 20223
+                }
+            ],
+            "total_votes": 6677666,
+            "year": 2012
+        },
+        "state": "NY"
+    },
+    "OH-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Brown",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Renacci",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1952-11-09T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "Brown",
+            "party": "D",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Brown",
+                    "party": "D",
+                    "votes": 2762757
+                },
+                {
+                    "caucus": "R",
+                    "name": "Mandel",
+                    "party": "R",
+                    "votes": 2435740
+                },
+                {
+                    "caucus": null,
+                    "name": "Rupert",
+                    "party": null,
+                    "votes": 250617
+                }
+            ],
+            "total_votes": 5449414,
+            "year": 2012
+        },
+        "state": "OH"
+    },
+    "PA-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Casey",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Barletta",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1960-04-13T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "Casey",
+            "party": "D",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Casey",
+                    "party": "D",
+                    "votes": 3021364
+                },
+                {
+                    "caucus": "R",
+                    "name": "Smith",
+                    "party": "R",
+                    "votes": 2509132
+                },
+                {
+                    "caucus": "L",
+                    "name": "Smith",
+                    "party": "L",
+                    "votes": 96926
+                }
+            ],
+            "total_votes": 5627404,
+            "year": 2012
+        },
+        "state": "PA"
+    },
+    "RI-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Whitehouse",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Flanders",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1955-10-20T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "Whitehouse",
+            "party": "D",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Whitehouse",
+                    "party": "D",
+                    "votes": 271034
+                },
+                {
+                    "caucus": "R",
+                    "name": "Hinckley",
+                    "party": "R",
+                    "votes": 146222
+                }
+            ],
+            "total_votes": 418189,
+            "year": 2012
+        },
+        "state": "RI"
+    },
+    "TN-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Bredesen",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Blackburn",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1952-08-24T00:00:00",
+            "caucus": "R",
+            "first_elected": 2006,
+            "name": "Corker",
+            "party": "R",
+            "running": false,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Corker",
+                    "party": "R",
+                    "votes": 1506443
+                },
+                {
+                    "caucus": "D",
+                    "name": "Clayton",
+                    "party": "D",
+                    "votes": 705882
+                },
+                {
+                    "caucus": "G",
+                    "name": "Pleasant",
+                    "party": "G",
+                    "votes": 37964
+                },
+                {
+                    "caucus": "L",
+                    "name": "Crowell",
+                    "party": "L",
+                    "votes": 20813
+                },
+                {
+                    "caucus": "Constitution",
+                    "name": "Steck",
+                    "party": "Constitution",
+                    "votes": 18490
+                },
+                {
+                    "caucus": null,
+                    "name": "Long",
+                    "party": null,
+                    "votes": 8043
+                },
+                {
+                    "caucus": null,
+                    "name": "Higdon",
+                    "party": null,
+                    "votes": 8036
+                },
+                {
+                    "caucus": null,
+                    "name": "Scoggin",
+                    "party": null,
+                    "votes": 7105
+                },
+                {
+                    "caucus": null,
+                    "name": "Gatchell",
+                    "party": null,
+                    "votes": 6469
+                }
+            ],
+            "total_votes": 2304341,
+            "year": 2012
+        },
+        "state": "TN"
+    },
+    "TX-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Cruz",
+                    "party": "R",
+                    "votes": null
+                },
+                {
+                    "caucus": "D",
+                    "name": "O'Rourke",
+                    "party": "D",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1970-12-22T00:00:00",
+            "caucus": "R",
+            "first_elected": 2012,
+            "name": "Cruz",
+            "party": "R",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Cruz",
+                    "party": "R",
+                    "votes": 4440137
+                },
+                {
+                    "caucus": "D",
+                    "name": "Sadler",
+                    "party": "D",
+                    "votes": 3194927
+                },
+                {
+                    "caucus": "L",
+                    "name": "Myers",
+                    "party": "L",
+                    "votes": 162354
+                },
+                {
+                    "caucus": "G",
+                    "name": "Collins",
+                    "party": "G",
+                    "votes": 67404
+                }
+            ],
+            "total_votes": 7864822,
+            "year": 2012
+        },
+        "state": "TX"
+    },
+    "UT-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Wilson",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Romney",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "1977-01-03T00:00:00",
+            "birthdate": "1934-03-22T00:00:00",
+            "caucus": "R",
+            "first_elected": 1976,
+            "name": "Hatch",
+            "party": "R",
+            "running": false,
+            "term": 8
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Hatch",
+                    "party": "R",
+                    "votes": 595972
+                },
+                {
+                    "caucus": "D",
+                    "name": "Howell",
+                    "party": "D",
+                    "votes": 275880
+                },
+                {
+                    "caucus": "Constitution",
+                    "name": "McCausland",
+                    "party": "Constitution",
+                    "votes": 28367
+                },
+                {
+                    "caucus": "Justice",
+                    "name": "Geery",
+                    "party": "Justice",
+                    "votes": 7444
+                },
+                {
+                    "caucus": "Independent (United States)",
+                    "name": "Barron",
+                    "party": "Independent (United States)",
+                    "votes": 6261
+                }
+            ],
+            "total_votes": 913924,
+            "year": 2012
+        },
+        "state": "UT"
+    },
+    "VA-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Kaine",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Stewart",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1958-02-26T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "Kaine",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Kaine",
+                    "party": "D",
+                    "votes": 2010067
+                },
+                {
+                    "caucus": "R",
+                    "name": "Allen",
+                    "party": "R",
+                    "votes": 1785542
+                }
+            ],
+            "total_votes": 3802196,
+            "year": 2012
+        },
+        "state": "VA"
+    },
+    "VT-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Sanders",
+                    "party": "I",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Zupan",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-01-03T00:00:00",
+            "birthdate": "1941-09-08T00:00:00",
+            "caucus": "D",
+            "first_elected": 2006,
+            "name": "Sanders",
+            "party": "I",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Sanders",
+                    "party": "I",
+                    "votes": 207848
+                },
+                {
+                    "caucus": "R",
+                    "name": "MacGovern",
+                    "party": "R",
+                    "votes": 72898
+                },
+                {
+                    "caucus": "Marijuana",
+                    "name": "Ericson",
+                    "party": "Marijuana",
+                    "votes": 5924
+                },
+                {
+                    "caucus": "Liberty Union",
+                    "name": "Diamondstone",
+                    "party": "Liberty Union",
+                    "votes": 2511
+                },
+                {
+                    "caucus": "Peace and Prosperity",
+                    "name": "Moss",
+                    "party": "Peace and Prosperity",
+                    "votes": 2452
+                },
+                {
+                    "caucus": "VoteKISS",
+                    "name": "LaFramboise",
+                    "party": "VoteKISS",
+                    "votes": 877
+                }
+            ],
+            "total_votes": 292762,
+            "year": 2012
+        },
+        "state": "VT"
+    },
+    "WA-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Cantwell",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Hutchison",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2001-01-03T00:00:00",
+            "birthdate": "1958-10-13T00:00:00",
+            "caucus": "D",
+            "first_elected": 1996,
+            "name": "Cantwell",
+            "party": "D",
+            "running": true,
+            "term": 4
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Cantwell",
+                    "party": "D",
+                    "votes": 1855493
+                },
+                {
+                    "caucus": "R",
+                    "name": "Baumgartner",
+                    "party": "R",
+                    "votes": 1213924
+                }
+            ],
+            "total_votes": 3069417,
+            "year": 2012
+        },
+        "state": "WA"
+    },
+    "WI-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Baldwin",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Vukmir",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2013-01-03T00:00:00",
+            "birthdate": "1962-02-11T00:00:00",
+            "caucus": "D",
+            "first_elected": 2012,
+            "name": "Baldwin",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Baldwin",
+                    "party": "D",
+                    "votes": 1547104
+                },
+                {
+                    "caucus": "R",
+                    "name": "Thompson",
+                    "party": "R",
+                    "votes": 1380126
+                },
+                {
+                    "caucus": "L",
+                    "name": "Kexel",
+                    "party": "L",
+                    "votes": 62240
+                },
+                {
+                    "caucus": null,
+                    "name": "Allen",
+                    "party": null,
+                    "votes": 16455
+                }
+            ],
+            "total_votes": 3009411,
+            "year": 2012
+        },
+        "state": "WI"
+    },
+    "WV-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Manchin",
+                    "party": "D",
+                    "votes": null
+                },
+                {
+                    "caucus": "R",
+                    "name": "Morrisey",
+                    "party": "R",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2010-11-15T00:00:00",
+            "birthdate": "1947-08-24T00:00:00",
+            "caucus": "D",
+            "first_elected": 2010,
+            "name": "Manchin",
+            "party": "D",
+            "running": true,
+            "term": 2
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "D",
+                    "name": "Manchin",
+                    "party": "D",
+                    "votes": 394532
+                },
+                {
+                    "caucus": "R",
+                    "name": "Raese",
+                    "party": "R",
+                    "votes": 237825
+                },
+                {
+                    "caucus": "Mountain",
+                    "name": "Baber",
+                    "party": "Mountain",
+                    "votes": 19231
+                }
+            ],
+            "total_votes": 651588,
+            "year": 2012
+        },
+        "state": "WV"
+    },
+    "WY-I": {
+        "class": 1,
+        "election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Barrasso",
+                    "party": "R",
+                    "votes": null
+                },
+                {
+                    "caucus": "D",
+                    "name": "Trauner",
+                    "party": "D",
+                    "votes": null
+                }
+            ],
+            "special": null,
+            "total_votes": null,
+            "year": 2018
+        },
+        "incumbent": {
+            "assumed_office": "2007-06-25T00:00:00",
+            "birthdate": "1952-07-21T00:00:00",
+            "caucus": "R",
+            "first_elected": 2008,
+            "name": "Barrasso",
+            "party": "R",
+            "running": true,
+            "term": 3
+        },
+        "previous_election": {
+            "candidates": [
+                {
+                    "caucus": "R",
+                    "name": "Barrasso",
+                    "party": "R",
+                    "votes": 184531
+                },
+                {
+                    "caucus": "D",
+                    "name": "Chesnut",
+                    "party": "D",
+                    "votes": 52596
+                },
+                {
+                    "caucus": "Wyoming Country",
+                    "name": "Otto",
+                    "party": "Wyoming Country",
+                    "votes": 6138
+                }
+            ],
+            "total_votes": 243265,
+            "year": 2012
+        },
+        "state": "WY"
+    }
+}

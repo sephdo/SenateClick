@@ -1,93 +1,78 @@
 <html>
-<head>
-<title>Electoral Click: 2018 Senate Elections</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script src="js/app.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="./css/style.css">
-<link rel="stylesheet" type="text/css" href="./css/map.css">
-<script>
-$(document).ready(function() {
-	$(function() {
-		
-		import_svg(handle_resize);
-		//fontsize();
-		//$(window).resize(fontsize);
-		retrieve_local();
-		adjust_scoreboard();
-		$("path, circle").mousedown(click_state);
-		$("#reset_btn").click(reset_map)
-		$("#2012_btn").click(lastResult)
-		$("#alabama_btn").click(function(event){
-		    toggleAlabama()
-		})
-		
-	});
-});
-
-</script>
-</head>
-<body>
-
-<div id="container">
-<div id="scoreboard_wrapper">
-<div class="scoretext_wrapper">
-<div class="scoretext lefttext" id="demscore">DEM</div>
-</div>
-<div class="scoretext_wrapper">
-<div class="scoretext righttext" id="gopscore">GOP</div>
-</div>
-
-<div class="winmarker"></div>
-<div class="scorebar">
-    <div id="DEM4" class="partybar"></div>
-	<div id="DEM3" class="partybar"></div>
-	<div id="DEM2" class="partybar"></div>
-	<div id="DEM1" class="partybar"></div>
-	<div id="GREEN3" class="partybar"></div>
-	<div id="GREEN2" class="partybar"></div>
-	<div id="GREEN1" class="partybar"></div>
-	<div id="SWING" class="partybar"></div>
-	<div id="LIB1" class="partybar"></div>
-	<div id="LIB2" class="partybar"></div>
-	<div id="LIB3" class="partybar"></div>
-	<div id="GOP1" class="partybar"></div>
-	<div id="GOP2" class="partybar"></div>
-	<div id="GOP3" class="partybar"></div>
-	<div id="GOP4" class="partybar"></div>
-</div>
-</div>
-
-<div class="scoreboard_wrapper">
-<div class="scoretext_wrapper">
-<div class="scoretext lefttext" id="demgain"></div>
-</div>
-<div class="scoretext_wrapper">
-<div class="scoretext centertext" id="veep">VP</div>
-</div>
-<div class="scoretext_wrapper">
-<div class="scoretext righttext" id="gopgain"></div>
-</div>
-
-<div class="scorebar">
-	<div class="caucusbar DEM3-text" id="demcaucus"></div>
-	<div class="caucusbar GOP3-text" id="gopcaucus"></div>
-</div>
-</div>
-
-<div id="svgContainer"></div>
-<div id="lowerContainer">
-<div id="optPanel">
-<button type="button" id="reset_btn">Reset</button>
-<button type="button" id="2012_btn">2012 Results</button>
-<button type="button" id="alabama_btn">Toggle Alabama</button>
-</div>
-<br>
-<div class="lowernote">Left-click = DEM. Right-click = GOP. Shift-click for 3rd parties.</div>
-<br>
-<div class="attribution">App by Joseph F. Donahue - <a href="mailto:josephfdonahue@gmail.com">josephfdonahue@gmail.com</a></div>
-</div>
-</div>
-</body>
-</head>
+    <head>
+        <title>Electoral Click: 2018 Senate Elections</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google" content="notranslate">
+        <script src="js/app.js"></script>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+        <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.3.0/material.indigo-blue.min.css">
+        <script src="https://storage.googleapis.com/code.getmdl.io/1.3.0/material.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+        <link rel="stylesheet" type="text/css" href="./css/map.css">
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+            	app = new App()
+            });
+        </script>
+    </head>
+    <body>
+        <div id="container">
+            <div id="scoreboard_wrapper">
+                <div class="scoretext_wrapper">
+                    <div class="scoretext lefttext" id="demscore">DEM</div>
+                </div>
+                <div class="scoretext_wrapper">
+                    <div class="scoretext righttext" id="gopscore">GOP</div>
+                </div>
+                <div class="winmarker"></div>
+                <div class="scorebar">
+                    <div id="DEM4" class="partybar" axis="demgop" index="-1"></div>
+                    <div id="DEM3" class="partybar" axis="demgop" index="0"></></div>
+                    <div id="DEM2" class="partybar" axis="demgop" index="1"></div>
+                    <div id="DEM1" class="partybar" axis="demgop" index="2"></div>
+                    <div id="GREEN3" class="partybar" axis="greenlib" index="0"></div>
+                    <div id="GREEN2" class="partybar" axis="greenlib" index="1"></div>
+                    <div id="GREEN1" class="partybar" axis="greenlib" index="2"></div>
+                    <div id="SWING" class="partybar" axis="demgop" index="3"></div>
+                    <div id="LIB1" class="partybar" axis="greenlib" index="4"></div>
+                    <div id="LIB2" class="partybar" axis="greenlib" index="5"></div>
+                    <div id="LIB3" class="partybar" axis="greenlib" index="6"></div>
+                    <div id="GOP1" class="partybar" axis="demgop" index="4"></div>
+                    <div id="GOP2" class="partybar" axis="demgop" index="5"></div>
+                    <div id="GOP3" class="partybar" axis="demgop" index="6"></div>
+                    <div id="GOP4" class="partybar" axis="demgop" index="7"></div>
+                </div>
+            </div>
+            <div class="scoreboard_wrapper">
+                <div class="scoretext_wrapper">
+                    <div class="scoretext lefttext" id="demgain"></div>
+                </div>
+                <div class="scoretext_wrapper">
+                    <div class="scoretext centertext" id="veep">VP</div>
+                </div>
+                <div class="scoretext_wrapper">
+                    <div class="scoretext righttext" id="gopgain"></div>
+                </div>
+                <div class="scorebar">
+                    <div class="caucusbar DEM3-text" id="demcaucus"></div>
+                    <div class="caucusbar GOP3-text" id="gopcaucus"></div>
+                </div>
+            </div>
+            <div id="svgContainer"></div>
+            <div id="lowerContainer">
+                <div id="optPanel">
+                    <button type="button" class="mdl-button mdl-js-button mdl-button--raised" id="reset_btn">Reset</button>
+                    <button type="button" class="mdl-button mdl-js-button mdl-button--raised" id="previous_results_btn">Previous Results</button>
+                    <button type="button" class="mdl-button mdl-js-button mdl-button--raised" id="538_btn">FiveThirtyEight Forecast</button>
+                    <button type="button" class="mdl-button mdl-js-button mdl-button--raised" id="sabato_btn">Sabato Forecast</button>
+                    <button type="button" class="mdl-button mdl-js-button mdl-button--raised" id="cnn_btn">CNN Forecast</button>
+                    <button type="button" class="mdl-button mdl-js-button mdl-button--raised" id="politico_btn">Politico Forecast</button>
+                </div>
+                <br>
+                <div class="lowernote">Left-click = DEM. Right-click = GOP. Shift-click for 3rd parties.</div>
+                <br>
+                <div class="attribution">App by Joseph F. Donahue - <a href="mailto:josephfdonahue@gmail.com">josephfdonahue@gmail.com</a></div>
+            </div>
+        </div>
+    </body>
+</html>

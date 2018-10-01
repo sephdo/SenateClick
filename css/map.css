@@ -24,8 +24,10 @@
 	-inkscape-font-specification:'Roboto Bold'
 }
 .NOELECTION {
-	fill:#cccccc;
-	
+	fill:#cccccc  !important;
+}
+.NOELECTION-LABEL{
+	display:none !important;
 }
 
 .DEM4{
