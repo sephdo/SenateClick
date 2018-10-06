@@ -296,10 +296,11 @@ function App(){
 				}
 				for (let i=0;i<data.seatForecasts.length;i++){
 					let seatForecast = data.seatForecasts[i].forecast;
-					let key = data.seatForecasts[i].race.replace("S1","I").replace("S2","II")
-					if (key == "US"){
+					if (data.seatForecasts[i].state == "US"){
 						continue;
 					}
+					let classRoman = data.seatForecasts[i].class == 1 ? "I" : "II";
+					let key = data.seatForecasts[i].state + "-" + classRoman;
 					let party;
 					let winprob = 0;
 					let winprobs = {};
